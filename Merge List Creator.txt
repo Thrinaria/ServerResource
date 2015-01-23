@@ -1,0 +1,65 @@
+Settings
+{
+FileSize	100000000	// Datei Größe in Bytes (100 MB)
+FileEnding	.res		// Datei Endung
+FilePrefix	CompressedFiles_		// Datei Name Präfix
+}
+
+IgnoreResource
+{
+// Wild Cards
+// Funktioniert nur mit Dateiendungen
+Wild	.asi
+Wild	.dat
+Wild	.dll
+Wild	.exe
+Wild	.ini
+Wild	.lua
+Wild	.rar
+Wild	.res
+Wild	.room
+Wild	.sys
+Wild    .gitignore
+// Ordner
+// Sub Ordner sind auch möglich
+// bsp. "World\WdMadrigal" oder "WdMadrigal"
+// "World" meint allerdings nicht die Unterordner
+// bsp. "World\WdMadrigal"
+Folder	Log
+Folder	LuaFunc
+Folder	Music
+Folder	SFX\Script
+Folder	Sound
+Folder	World
+Folder	.git
+// Dateien
+// Dateien im Sub Folder gehen auch
+// bsp. "Char\char_Bill.TGA" oder "char_Bill.TGA"
+File	AI_Script.txt
+File	conv.txt
+File	CreateMonster.txt
+File	DiePenalty.inc
+File	GuildCombat.txt
+File	itemremove.txt
+File	itemScript.txt
+File	Merge List Creator.txt
+File	MiniGame_Alphabet.txt
+File	MiniGame_Alphabet.txt.txt
+File	MiniGame_FiveSystem.txt
+File	MiniGame_KawiBawiBo.txt
+File	MiniGame_Reassemble.txt
+File	MonsterWeapon.inc
+File	propDropEvent.inc
+File	propGiftbox.inc
+File	randomeventmonster.inc
+File	randomoption.inc
+File	removequest.txt
+File	resolustion
+File	Resource.txt
+File	s.txt
+File	school.txt
+File	serverIPList.txt
+File	Spec_Item.txt.txt
+File	spevent.txt
+File	WorldDialog.txt
+}
