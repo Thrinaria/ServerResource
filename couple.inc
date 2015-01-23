@@ -1,0 +1,175 @@
+Level
+{
+	0	// 1
+	100 	// 2
+	200 	// 3
+	250  	// 4
+	300  	// 5
+	400  	// 6
+	500  	// 7
+	600  	// 8
+	700  	// 9
+	800  	// 10
+	900  	// 11
+	1000  	// 12
+	1100  	// 13
+	1200  	// 14
+	1300  	// 15
+	1400  	// 16
+	1500  	// 17
+	1600  	// 18
+	1700 	// 19
+	1800 	// 20
+	1900 	// 21
+	2000 	// 22
+	2100 	// 23
+	2200 	// 24
+	2300 	// 25
+	2400 	// 26
+	2500 	// 27
+	2600 	// 28
+	2700 	// 29
+	2800 	// 30
+	2900 	// 31
+	3000	// 32
+	3100	// 33
+	3200	// 34
+	3300	// 35
+	3400	// 36
+	3500	// 37
+	3600	// 38
+	3700	// 39
+	3800	// 40
+	3900	// 41
+	4000	// 42
+	4100	// 43
+	4200	// 44
+	4300	// 45
+	4400	// 46
+	4500	// 47
+	4600	// 48
+	4700	// 49
+	5000	// 50
+}
+
+// SEX_MALE: 0, SEX_FEMALE: 1, SEX_SEXLESS: 2
+Item
+{
+	2	// 레벨
+	{	// 종류			속성(2면 귀속)	기간(분)	개수
+		II_CHR_MAG_TRI_HEARTBOMB	SEX_SEXLESS	2	0	10
+	}
+
+	3
+	{
+		II_SYS_SYS_EVE_WINGS	SEX_SEXLESS	2	0	10
+	}
+
+	4
+	{
+		II_SYS_SYS_EVE_BXFIRECRACKER	SEX_SEXLESS	2	0	5
+	}
+
+	5
+	{
+		II_SYS_SYS_SCR_BXLOSHA	SEX_SEXLESS	2	0	3
+	}
+
+	6
+	{
+		II_SYS_SYS_SCR_BXLAWOLF	SEX_SEXLESS	2	0	3
+	}
+
+	7
+	{
+		II_GEN_FOO_COO_MEDICINE01	SEX_SEXLESS	2	0	50
+	}
+
+	8
+	{
+		II_GEN_FOO_PIL_SINBI		SEX_SEXLESS	2	0	50
+	}
+
+	9
+	{
+		II_SYS_SYS_EVE_CORN01		SEX_SEXLESS	2	0	50
+	}
+
+	10
+	{
+		II_SYS_SYS_EVE_CHOCOLATE02	SEX_SEXLESS	2	0	50
+	}
+
+	11
+	{
+		II_SYS_SYS_EVE_POTION		SEX_SEXLESS	2	0	5
+	}
+
+	12
+	{
+		II_SYS_SYS_EVE_BALLOON		SEX_SEXLESS	2	0	1
+	}
+
+	13
+	{
+		II_SYS_SYS_EVE_BALLOON01	SEX_SEXLESS	2	0	1
+	}
+
+	14
+	{
+		II_SYS_SYS_EVE_BALLOON02	SEX_SEXLESS	2	0	1
+	}
+
+	15
+	{
+		II_SYS_SYS_EVE_FRUITOFHEART01	SEX_SEXLESS	2	0	1
+	}
+
+	16
+	{
+		II_GEN_FOO_INS_VALENTINE_COOKIES	SEX_SEXLESS	2	0	50
+	}
+
+	17
+	{
+		II_PET_LUIA1			SEX_SEXLESS	2	10080	1
+	}
+
+	18
+	{
+		II_PET_DRAGON1			SEX_SEXLESS	2	10080	1
+	}
+
+	19
+	{
+		II_RID_RID_BOR_RIDINGCLOUD02	SEX_SEXLESS	2	10080	1
+	}
+
+	20
+	{
+		II_RID_RID_STI_BIKE7		SEX_SEXLESS	2	10080	1
+	}
+
+	21
+	{
+		II_SYS_SYS_SCR_BXMWED01_1	SEX_MALE	2	20160	1
+		II_SYS_SYS_SCR_BXFWED01_1	SEX_FEMALE	2	20160	1
+	}
+}
+
+SkillKind
+{
+	II_COUPLE_BUFF_POWER_01	// 0
+	II_COUPLE_BUFF_BLESS_01	// 1
+	II_COUPLE_BUFF_MIRACLE_01	// 2
+}
+
+SkillLevel
+{
+// 	커플 레벨	0	1	2	(SkillKind Index0 의 스킬레벨,SkillKind Index1 의 스킬레벨,SkillKind Index2 의 스킬레벨)
+	1	0	0	0
+	6	1	0	0
+	11	2	1	0
+	16	3	1	0
+	21	4	2	1
+}

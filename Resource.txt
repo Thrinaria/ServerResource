@@ -1,0 +1,16 @@
+
+resource 1 "..\ResClient\World\WdVolcaneYellow\CompressedFiles_00.res"
+{
+	file "World\WdVolcaneYellow\WdVolcaneYellow.dyo"
+	file "World\WdVolcaneYellow\WdVolcaneYellow.rgn"
+	file "World\WdVolcaneYellow\WdVolcaneYellow.txt.txt"
+	file "World\WdVolcaneYellow\WdVolcaneYellow.wld"
+	file "World\WdVolcaneYellow\WdVolcaneYellow00-00.dds"
+	file "World\WdVolcaneYellow\WdVolcaneYellow00-00.lnd"
+	file "World\WdVolcaneYellow\WdVolcaneYellow00-01.dds"
+	file "World\WdVolcaneYellow\WdVolcaneYellow00-01.lnd"
+	file "World\WdVolcaneYellow\WdVolcaneYellow01-00.dds"
+	file "World\WdVolcaneYellow\WdVolcaneYellow01-00.lnd"
+	file "World\WdVolcaneYellow\WdVolcaneYellow01-01.dds"
+	file "World\WdVolcaneYellow\WdVolcaneYellow01-01.lnd"
+}
