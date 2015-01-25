@@ -2356,19 +2356,11 @@ SA_STORM_POWERINCREASE02,SI_STORM_SUP_POWERINCREASE,2,=,=,=,=,=,=,=,=,=,DST_ATKP
 SA_STORM_POWERINCREASE03,SI_STORM_SUP_POWERINCREASE,3,=,=,=,=,=,=,=,=,=,DST_ATKPOWER,=,450,=,=,=,=,=,=,=,=,=,=,200,0,1,=,=,=,300000,=,1,50,600
 SA_STORM_POWERINCREASE04,SI_STORM_SUP_POWERINCREASE,4,=,=,=,=,=,=,=,=,=,DST_ATKPOWER,=,500,=,=,=,=,=,=,=,=,=,=,250,0,1,=,=,=,300000,=,1,50,600
 SA_STORM_POWERINCREASE05,SI_STORM_SUP_POWERINCREASE,5,=,=,=,=,=,=,=,=,=,DST_ATKPOWER,=,550,=,=,=,=,=,=,=,=,=,=,300,0,1,=,=,=,300000,=,1,50,600
-<<<<<<< HEAD
-SA_WIN_MADHURRICANE01,SI_WIN_YOYO_MADHURRICANE,1,328,422,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,80,0,500,=,=,=,=,=,1,61,600
-SA_WIN_MADHURRICANE02,SI_WIN_YOYO_MADHURRICANE,2,344,443,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,100,0,500,=,=,=,=,=,1,61,600
-SA_WIN_MADHURRICANE03,SI_WIN_YOYO_MADHURRICANE,3,362,465,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,120,0,500,=,=,=,=,=,1,61,600
-SA_WIN_MADHURRICANE04,SI_WIN_YOYO_MADHURRICANE,4,380,490,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,140,0,500,=,=,=,=,=,1,61,600
-SA_WIN_MADHURRICANE05,SI_WIN_YOYO_MADHURRICANE,5,398,514,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,160,0,500,=,=,=,=,=,1,61,600
-=======
 SA_WIN_MADHURRICANE01,SI_WIN_YOYO_MADHURRICANE,1,328,422,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,80,0,1500,=,=,=,=,=,1,61,600
 SA_WIN_MADHURRICANE02,SI_WIN_YOYO_MADHURRICANE,2,344,443,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,100,0,1500,=,=,=,=,=,1,61,600
 SA_WIN_MADHURRICANE03,SI_WIN_YOYO_MADHURRICANE,3,362,465,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,120,0,1500,=,=,=,=,=,1,61,600
 SA_WIN_MADHURRICANE04,SI_WIN_YOYO_MADHURRICANE,4,380,490,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,140,0,1500,=,=,=,=,=,1,61,600
 SA_WIN_MADHURRICANE05,SI_WIN_YOYO_MADHURRICANE,5,398,514,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,160,0,1500,=,=,=,=,=,1,61,600
->>>>>>> e18039c14c742ed44380a214a53f256587a611ff
 SA_WIN_EVASAONINCREASE01,SI_WIN_SUP_EVASIONINCREASE,1,=,=,=,=,=,=,=,=,=,DST_BLOCK_MELEE,=,10,=,=,=,=,=,=,=,=,=,=,50,0,1000,=,=,=,300000,=,1,50,600
 SA_WIN_EVASAONINCREASE02,SI_WIN_SUP_EVASIONINCREASE,2,=,=,=,=,=,=,=,=,=,DST_BLOCK_MELEE,=,15,=,=,=,=,=,=,=,=,=,=,70,0,1000,=,=,=,300000,=,1,50,600
 SA_WIN_EVASAONINCREASE03,SI_WIN_SUP_EVASIONINCREASE,3,=,=,=,=,=,=,=,=,=,DST_BLOCK_MELEE,=,20,=,=,=,=,=,=,=,=,=,=,90,0,1000,=,=,=,300000,=,1,50,600
@@ -2404,19 +2396,11 @@ SA_CRA_HAWKEYE02,SI_CRA_SUP_HAWKEYE,2,=,=,=,=,=,=,=,=,=,DST_HAWKEYE_RATE,=,15,=,
 SA_CRA_HAWKEYE03,SI_CRA_SUP_HAWKEYE,3,=,=,=,=,=,=,=,=,=,DST_HAWKEYE_RATE,=,20,=,=,=,=,=,=,=,=,=,120,=,0,1000,8,=,=,300000,=,1,4,600
 SA_CRA_HAWKEYE04,SI_CRA_SUP_HAWKEYE,4,=,=,=,=,=,=,=,=,=,DST_HAWKEYE_RATE,=,25,=,=,=,=,=,=,=,=,=,140,=,0,1000,8,=,=,300000,=,1,4,600
 SA_CRA_HAWKEYE05,SI_CRA_SUP_HAWKEYE,5,=,=,=,=,=,=,=,=,=,DST_HAWKEYE_RATE,=,30,=,=,=,=,=,=,=,=,=,160,=,0,1000,8,=,=,300000,=,1,4,600
-<<<<<<< HEAD
-SA_FLO_DOT01,SI_FLO_HEAL_DOT,1,=,=,=,=,=,=,=,=,=,DST_HEAL,=,1000,=,=,=,=,=,=,=,=,=,1000,=,60000,1000,8,=,=,6000,=,1,1,600
-SA_FLO_DOT02,SI_FLO_HEAL_DOT,2,=,=,=,=,=,=,=,=,=,DST_HEAL,=,1800,=,=,=,=,=,=,=,=,=,1500,=,60000,1000,8,=,=,8000,=,1,1,600
-SA_FLO_DOT03,SI_FLO_HEAL_DOT,3,=,=,=,=,=,=,=,=,=,DST_HEAL,=,5000,=,=,=,=,=,=,=,=,=,2000,=,60000,1000,8,=,=,10000,=,1,1,600
-SA_FLO_DOT04,SI_FLO_HEAL_DOT,4,=,=,=,=,=,=,=,=,=,DST_HEAL,=,10000,=,=,=,=,=,=,=,=,=,2500,=,60000,1000,8,=,=,12000,=,1,1,600
-SA_FLO_DOT05,SI_FLO_HEAL_DOT,5,=,=,=,=,=,=,=,=,=,DST_HEAL,=,50000,=,=,=,=,=,=,=,=,=,3000,=,60000,1000,8,=,=,14000,=,1,1,600
-=======
 SA_FLO_DOT01,SI_FLO_HEAL_DOT,1,=,=,=,=,=,=,=,=,=,DST_HEAL,=,1000,=,=,=,=,=,=,=,=,=,1000,=,60000,1000,8,=,=,5000,=,1,1,600
 SA_FLO_DOT02,SI_FLO_HEAL_DOT,2,=,=,=,=,=,=,=,=,=,DST_HEAL,=,1800,=,=,=,=,=,=,=,=,=,1500,=,60000,1000,8,=,=,5000,=,1,1,600
 SA_FLO_DOT03,SI_FLO_HEAL_DOT,3,=,=,=,=,=,=,=,=,=,DST_HEAL,=,5000,=,=,=,=,=,=,=,=,=,2000,=,60000,1000,8,=,=,5000,=,1,1,600
 SA_FLO_DOT04,SI_FLO_HEAL_DOT,4,=,=,=,=,=,=,=,=,=,DST_HEAL,=,10000,=,=,=,=,=,=,=,=,=,2500,=,60000,1000,8,=,=,5000,=,1,1,600
 SA_FLO_DOT05,SI_FLO_HEAL_DOT,5,=,=,=,=,=,=,=,=,=,DST_HEAL,=,50000,=,=,=,=,=,=,=,=,=,3000,=,60000,1000,8,=,=,5000,=,1,1,600
->>>>>>> e18039c14c742ed44380a214a53f256587a611ff
 SA_FLO_BLESSSTEP01,SI_FLO_SQU_BLESSSTEP,1,=,=,=,=,=,=,=,=,=,DST_SPELL_RATE,DST_INT,5,10,=,=,=,=,=,=,=,=,300,=,0,1000,10,=,=,3000000,=,1,1,600
 SA_FLO_BLESSSTEP02,SI_FLO_SQU_BLESSSTEP,2,=,=,=,=,=,=,=,=,=,DST_SPELL_RATE,DST_INT,10,20,=,=,=,=,=,=,=,=,350,=,0,1000,10,=,=,3000000,=,1,1,600
 SA_FLO_BLESSSTEP03,SI_FLO_SQU_BLESSSTEP,3,=,=,=,=,=,=,=,=,=,DST_SPELL_RATE,DST_INT,12,30,=,=,=,=,=,=,=,=,400,=,0,1000,10,=,=,3000000,=,1,2,600
