@@ -35,10 +35,9 @@
 #define MAX_TROUPE_LEVEL		1
 
 
-
 #define MAX_MONSTER_LEVEL			270	
 
-#define MAX_GENERAL_LEVEL			120			// 일반, 마스터 캐릭 최고 레벨
+#define MAX_GENERAL_LEVEL			125			// 일반, 마스터 캐릭 최고 레벨
 
 #ifdef __3RD_LEGEND16
 
@@ -46,8 +45,8 @@
 
 #if __VER >= 17
 
-#define MAX_3RD_LEGEND_LEVEL		175		// 3차 전직 캐릭 최고 레벨 ( 139 -> 150 확장 )
-#define MAX_CHARACTER_LEVEL			175			// 기존 MAX_LEVEL 을 대체..캐릭터가 가질 수 있는 최고 레벨.. ( 139 -> 150 확장 )
+#define MAX_3RD_LEGEND_LEVEL		200		// 3차 전직 캐릭 최고 레벨 ( 139 -> 150 확장 )
+#define MAX_CHARACTER_LEVEL			200			// 기존 MAX_LEVEL 을 대체..캐릭터가 가질 수 있는 최고 레벨.. ( 139 -> 150 확장 )
 
 #else // __VER >= 17
 
