@@ -5932,8 +5932,7 @@ MI_NUTTYWHEEL4
 		    {
 			Attack 
                         Berserk 30 1.5
-			summon 10 1 MI_NUTTYWHEEL3
-			recovery 10 40 100 m            
+			summon 10 1 MI_NUTTYWHEEL3          
                     }
 		#move
 		    {
@@ -6111,7 +6110,6 @@ MI_DRILLER4
 			Attack 
                         Berserk 30 1.5
 			summon 10 1 MI_DRILLER3
-			recovery 10 50 100 m 
                         
                                     
                     }
@@ -6291,7 +6289,6 @@ MI_VOLT4
 			Attack 
                         Berserk 30 1.5
 			summon 10 1 MI_VOLT3
-			recovery 10 50 100 m  
                                     
                     }
 		#move
@@ -6471,7 +6468,6 @@ MI_ELDERGUARD4
 			Attack 
                         Berserk 30 1.5
 			summon 10 1 MI_ELDERGUARD3
-			recovery 10 50 100 m 
                           
                                     
                     }
@@ -6653,8 +6649,7 @@ MI_GARBAGEPIDER4
 		    {
 			Attack 
                         Berserk 30 1.5
-			summon 10 1 MI_GARBAGEPIDER3
-			recovery 10 50 100 m          
+			summon 10 1 MI_GARBAGEPIDER3         
                     }
 		#move
 		    {
@@ -6834,7 +6829,6 @@ MI_CRANEMACHINERY4
 			Attack 
                         Berserk 30 1.5
 			summon 10 1 MI_CRANEMACHINERY3
-			recovery 10 50 100 m 
                           
                                     
                     }
@@ -7417,8 +7411,7 @@ MI_SYLIACA4
 		    {
 			Attack 
                         Berserk 30 1.5
-			summon 10 1 MI_SYLIACA3
-			recovery 10 40 100 m            
+			summon 10 1 MI_SYLIACA3          
                     }
 		#move
 		    {
@@ -7793,8 +7786,7 @@ MI_GREEMONG4
 		    {
 			Attack 
                         Berserk 30 1.5
-			summon 10 1 MI_GREEMONG3
-			recovery 10 40 100 m             
+			summon 10 1 MI_GREEMONG3           
                     }
 		#move
 		    {
@@ -8288,8 +8280,7 @@ MI_CARRIERBOMB4
 		    {
 			Attack 
                         Berserk 30 1.5
-			summon 10 1 MI_CARRIERBOMB3
-			recovery 10 40 100 m            
+			summon 10 1 MI_CARRIERBOMB3          
                     }
 		#move
 		    {
@@ -8455,7 +8446,7 @@ MI_RAMPAGEBUTCHER4
 		#battle
 		    {
 			Attack cunning low
-			recovery 10 20 100 u
+
                         Rangeattack 6            
                     }
 		#move
@@ -9174,8 +9165,7 @@ MI_RISEM4
 		    {
 			Attack 
                         Berserk 30 1.5
-			summon 10 1 MI_RISEM3
-			recovery 10 40 100 m            
+			summon 10 1 MI_RISEM3           
                     }
 		#move
 		    {
@@ -9369,7 +9359,6 @@ MI_NUCTUVEHICLE4
 			Attack 
                         Berserk 30 1.5
 			summon 10 1 MI_NUCTUVEHICLE3
-			recovery 10 50 100 m 
                          
                                     
                     }
@@ -10692,8 +10681,7 @@ MI_GRRR4
 		    {
 			Attack 
                         Berserk 30 1.5
-			summon 10 1 MI_GRRR3
-			recovery 10 30 100 m            
+			summon 10 1 MI_GRRR3          
                     }
 		#move
 		    {
@@ -11428,7 +11416,6 @@ MI_NAUTREPY4
 		#battle
 		    {
 			Attack 
-                        recovery 10 20 100 a
 			Berserk 30 1.5
 			summon 10 1 MI_NAUTREPY3            
                     }
@@ -11605,7 +11592,6 @@ MI_BOO4
 		#battle
 		    {
 			Attack 
-                        recovery 10 30 100 a
 			Berserk 30 1.5
 			summon 10 1 MI_BOO3            
                     }
@@ -11782,8 +11768,7 @@ MI_HOPPRE4
 		    {
 			Attack 
                         Berserk 30 1.5
-			summon 10 1 MI_HOPPRE3
-			recovery 10 20 100 m            
+			summon 10 1 MI_HOPPRE3         
                     }
 		#move
 		    {
@@ -11954,7 +11939,6 @@ MI_MUSHPOIE4
 		#battle
 		    {
 			Attack 
-                        recovery 10 30 100 a
 			Berserk 30 1.8
 			summon 10 1 MI_MUSHPOIE3            
                     }
@@ -12129,8 +12113,7 @@ MI_IREN4
 		    {
 			Attack 
                         Berserk 30 1.5
-			summon 10 1 MI_IREN3
-			recovery 10 30 100 a            
+			summon 10 1 MI_IREN3         
                     }
 		#move
 		    {
@@ -12477,7 +12460,6 @@ MI_ANTIQUERY4
 		#battle
 		    {
 			Attack 
-                        recovery 10 50 100 a 
 			Berserk 30 1.5
 			summon 10 1 MI_ANTIQUERY3            
                     }
@@ -12649,7 +12631,6 @@ MI_LUIA4
 		    {
 			Attack 
                         Berserk 30 1.5
-			recovery 10 50 100 m
 			summon 10 1 MI_LUIA3            
                     }
 		#move
@@ -12823,8 +12804,7 @@ MI_GONGURY4
 		    {
 			Attack 
                         Berserk 30 1.6
-			summon 10 1 MI_GONGURY3
-			recovery 20 30 100 a           
+			summon 10 1 MI_GONGURY3          
                     }
 		#move
 		    {
@@ -13165,7 +13145,6 @@ MI_KERN4
 		#battle
 		    {
 			Attack 
-                        Recovery 10 50 100 m
 			Berserk 30 1.5
 			summon 10 1 MI_KERN3            
                     }
@@ -13341,8 +13320,7 @@ MI_GLAPHAN4
 		    {
 			Attack 
                         summon 10 1 MI_GLAPHAN3
-			Berserk 30 1.8
-			recovery 10 40 100 m            
+			Berserk 30 1.8     
                     }
 		#move
 		    {
@@ -22798,7 +22776,7 @@ MI_Crohell03
 
 MI_Crohell04
 {
-	Maxitem = 4;
+	Maxitem = 1;
 	DropGold(700, 1100);
 
 	DropItem(II_WEA_SWO_LEAGENDG, 3000000, 0, 1);
@@ -22811,52 +22789,6 @@ MI_Crohell04
 	DropItem(II_WEA_STA_LEAGENDG, 3000000, 0, 1);
 	DropItem(II_WEA_BOW_LEAGENDG, 3000000, 0, 1);
 	DropItem(II_WEA_YOY_LEAGENDG, 3000000, 0, 1);
-
-	DropKind(IK3_SWD, 6, 6);
-	DropKind(IK3_AXE, 6, 6);
-	DropKind(IK3_CHEERSTICK, 6, 6);
-	DropKind(IK3_KNUCKLEHAMMER, 6, 6);
-	DropKind(IK3_WAND, 6, 6);
-	DropKind(IK3_STAFF, 6, 6);
-	DropKind(IK3_HELMET, 6, 6);
-	DropKind(IK3_SUIT, 6, 6);
-	DropKind(IK3_GAUNTLET, 6, 6);
-	DropKind(IK3_BOOTS, 6, 6);
-	DropKind(IK3_SHIELD, 6, 6);
-	DropKind(IK3_BOW, 6, 6);
-	DropKind(IK3_YOYO, 6, 6);
-	DropKind(IK3_THSWD, 6, 6);
-	DropKind(IK3_THAXE, 6, 6);
-
-	DropItem(II_GEN_MAT_ORICHALCUM01, 2455000, 0, 1);
-	DropItem(II_GEN_MAT_MOONSTONE, 1256000, 0, 1);
-
-	DropItem(II_GEN_MAT_ELE_GENERATOR, 	2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_FLAME, 		2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_RIVER, 		2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_CYCLON, 	2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_DESERT, 	2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_GENERATOR, 	5000000, 0, -1, 20, 130 ); 	//속성 카드2
-	DropItem(II_GEN_MAT_ELE_RIVER, 		5000000, 0, -1, 20, 130 ); 	//속성 카드2
-	DropItem(II_GEN_MAT_ELE_FLAME, 		5000000, 0, -1, 20, 130 ); 	//속성 카드2
-	DropItem(II_GEN_MAT_ELE_CYCLON, 		5000000, 0, -1, 20, 130 ); 	//속성 카드2
-	DropItem(II_GEN_MAT_ELE_DESERT, 		5000000, 0, -1, 20, 130 ); 	//속성 카드2
- 
-	DropItem(II_GEN_MAT_ELE_MAGMA,		 100000, 0, -1, 50, 79 ); 	//HP4% 
-	DropItem(II_GEN_MAT_ELE_FLOOD,		 100000, 0, -1, 50, 79 ); 	//MP4%
-	DropItem(II_GEN_MAT_ELE_THUNDER,	 100000, 0, -1, 50, 79 ); 	//공격력4%
-	DropItem(II_GEN_MAT_ELE_MOUNTAIN,	 100000, 0, -1, 50, 79 ); 	//방어력4%
-	DropItem(II_GEN_MAT_ELE_STORM,		 100000, 0, -1, 50, 79 ); 	//FP4%
-
-	DropItem(II_GEN_POT_DRI_VITAL800,  110000000, 0, 1);
-	DropItem(II_GEN_REF_REF_EIGHTH, 420000000, 0, 1);
-	DropItem(II_GEN_FOO_COO_MEATSALAD, 1000000001, 0, 1);
-	DropItem(II_GEN_FOO_COO_MEATSALAD, 1000000001, 0, 1);
-	DropItem(II_GEN_FOO_COO_MEATSALAD, 1000000001, 0, 1);
-	DropItem(II_GEN_FOO_ICE_ICECREAMCAKE, 600000001, 0, 1);
-	DropItem(II_GEN_FOO_ICE_ICECREAMCAKE, 600000001, 0, 1);
-
-	DropItem(II_GEN_GEM_GEM_DOGTOOTH, 200000000, 0, 1);
 
 	m_nAttackFirstRange = 8;
 
@@ -23009,7 +22941,7 @@ MI_Frinker03
 
 MI_Frinker04
 {
-	Maxitem = 4;
+	Maxitem = 1;
 	DropGold(700, 1100);
 
 	DropItem(II_WEA_SWO_LEAGENDG, 3000000, 0, 1);
@@ -23022,52 +22954,6 @@ MI_Frinker04
 	DropItem(II_WEA_STA_LEAGENDG, 3000000, 0, 1);
 	DropItem(II_WEA_BOW_LEAGENDG, 3000000, 0, 1);
 	DropItem(II_WEA_YOY_LEAGENDG, 3000000, 0, 1);
-
-	DropKind(IK3_SWD, 6, 6);
-	DropKind(IK3_AXE, 6, 6);
-	DropKind(IK3_CHEERSTICK, 6, 6);
-	DropKind(IK3_KNUCKLEHAMMER, 6, 6);
-	DropKind(IK3_WAND, 6, 6);
-	DropKind(IK3_STAFF, 6, 6);
-	DropKind(IK3_HELMET, 6, 6);
-	DropKind(IK3_SUIT, 6, 6);
-	DropKind(IK3_GAUNTLET, 6, 6);
-	DropKind(IK3_BOOTS, 6, 6);
-	DropKind(IK3_SHIELD, 6, 6);
-	DropKind(IK3_BOW, 6, 6);
-	DropKind(IK3_YOYO, 6, 6);
-	DropKind(IK3_THSWD, 6, 6);
-	DropKind(IK3_THAXE, 6, 6);
-
-	DropItem(II_GEN_MAT_ORICHALCUM01, 2455000, 0, 1);
-	DropItem(II_GEN_MAT_MOONSTONE, 1256000, 0, 1);
-
-	DropItem(II_GEN_MAT_ELE_GENERATOR, 	2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_FLAME, 		2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_RIVER, 		2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_CYCLON, 	2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_DESERT, 	2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_GENERATOR, 	5000000, 0, -1, 20, 130 ); 	//속성 카드2
-	DropItem(II_GEN_MAT_ELE_RIVER, 		5000000, 0, -1, 20, 130 ); 	//속성 카드2
-	DropItem(II_GEN_MAT_ELE_FLAME, 		5000000, 0, -1, 20, 130 ); 	//속성 카드2
-	DropItem(II_GEN_MAT_ELE_CYCLON, 		5000000, 0, -1, 20, 130 ); 	//속성 카드2
-	DropItem(II_GEN_MAT_ELE_DESERT, 		5000000, 0, -1, 20, 130 ); 	//속성 카드2
-
-	DropItem(II_GEN_MAT_ELE_MAGMA,		 100000, 0, -1, 50, 79 ); 	//HP4% 
-	DropItem(II_GEN_MAT_ELE_FLOOD,		 100000, 0, -1, 50, 79 ); 	//MP4%
-	DropItem(II_GEN_MAT_ELE_THUNDER,	 100000, 0, -1, 50, 79 ); 	//공격력4%
-	DropItem(II_GEN_MAT_ELE_MOUNTAIN,	 100000, 0, -1, 50, 79 ); 	//방어력4%
-	DropItem(II_GEN_MAT_ELE_STORM,		 100000, 0, -1, 50, 79 ); 	//FP4%
-
-	DropItem(II_GEN_POT_DRI_VITAL800,  110000000, 0, 1);
-	DropItem(II_GEN_REF_REF_EIGHTH, 420000000, 0, 1);
-	DropItem(II_GEN_FOO_COO_MEATSALAD, 1000000001, 0, 1);
-	DropItem(II_GEN_FOO_COO_MEATSALAD, 1000000001, 0, 1);
-	DropItem(II_GEN_FOO_COO_MEATSALAD, 1000000001, 0, 1);
-	DropItem(II_GEN_FOO_ICE_ICECREAMCAKE, 600000001, 0, 1);
-	DropItem(II_GEN_FOO_ICE_ICECREAMCAKE, 600000001, 0, 1);
-
-	DropItem(II_GEN_GEM_GEM_FLOWER, 200000000, 0, 1);
 
 	m_nAttackFirstRange = 8;
 
@@ -23220,7 +23106,7 @@ MI_Toadrin03
 
 MI_Toadrin04
 {
-	Maxitem = 4;
+	Maxitem = 1;
 	DropGold(700, 1100);
 
 	DropItem(II_WEA_SWO_LEAGENDG, 2000000, 0, 1);
@@ -23233,46 +23119,6 @@ MI_Toadrin04
 	DropItem(II_WEA_STA_LEAGENDG, 2000000, 0, 1);
 	DropItem(II_WEA_BOW_LEAGENDG, 2000000, 0, 1);
 	DropItem(II_WEA_YOY_LEAGENDG, 2000000, 0, 1);
-
-	DropKind(IK3_SWD, 6, 6);
-	DropKind(IK3_AXE, 6, 6);
-	DropKind(IK3_CHEERSTICK, 6, 6);
-	DropKind(IK3_KNUCKLEHAMMER, 6, 6);
-	DropKind(IK3_WAND, 6, 6);
-	DropKind(IK3_STAFF, 6, 6);
-	DropKind(IK3_HELMET, 6, 6);
-	DropKind(IK3_SUIT, 6, 6);
-	DropKind(IK3_GAUNTLET, 6, 6);
-	DropKind(IK3_BOOTS, 6, 6);
-	DropKind(IK3_SHIELD, 6, 6);
-	DropKind(IK3_BOW, 6, 6);
-	DropKind(IK3_YOYO, 6, 6);
-	DropKind(IK3_THSWD, 6, 6);
-	DropKind(IK3_THAXE, 6, 6);
-
-	DropItem(II_GEN_MAT_ORICHALCUM01, 2455000, 0, 1);
-	DropItem(II_GEN_MAT_MOONSTONE, 1256000, 0, 1);
-
-	DropItem(II_GEN_MAT_ELE_GENERATOR, 	2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_FLAME, 		2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_RIVER, 		2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_CYCLON, 	2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_DESERT, 	2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_GENERATOR, 	5000000, 0, -1, 20, 130 ); 	//속성 카드2
-	DropItem(II_GEN_MAT_ELE_RIVER, 		5000000, 0, -1, 20, 130 ); 	//속성 카드2
-	DropItem(II_GEN_MAT_ELE_FLAME, 		5000000, 0, -1, 20, 130 ); 	//속성 카드2
-	DropItem(II_GEN_MAT_ELE_CYCLON, 		5000000, 0, -1, 20, 130 ); 	//속성 카드2
-	DropItem(II_GEN_MAT_ELE_DESERT, 		5000000, 0, -1, 20, 130 ); 	//속성 카드2
-
-	DropItem(II_GEN_POT_DRI_VITAL800,  110000000, 0, 1);
-	DropItem(II_GEN_REF_REF_EIGHTH, 420000000, 0, 1);
-	DropItem(II_GEN_FOO_COO_MEATSALAD, 1000000001, 0, 1);
-	DropItem(II_GEN_FOO_COO_MEATSALAD, 1000000001, 0, 1);
-	DropItem(II_GEN_FOO_COO_MEATSALAD, 1000000001, 0, 1);
-	DropItem(II_GEN_FOO_ICE_ICECREAMCAKE, 600000001, 0, 1);
-	DropItem(II_GEN_FOO_ICE_ICECREAMCAKE, 600000001, 0, 1);
-
-	DropItem(II_GEN_GEM_GEM_POISONBAG, 200000000, 0, 1);
 
 	m_nAttackFirstRange = 8;
 
@@ -23426,7 +23272,7 @@ MI_Hatsalra03
 
 MI_Hatsalra04
 {
-	Maxitem = 4;
+	Maxitem = 1;
 	DropGold(700, 1100);
 
 	DropItem(II_WEA_SWO_LEAGENDG, 3000000, 0, 1);
@@ -23439,41 +23285,6 @@ MI_Hatsalra04
 	DropItem(II_WEA_STA_LEAGENDG, 3000000, 0, 1);
 	DropItem(II_WEA_BOW_LEAGENDG, 3000000, 0, 1);
 	DropItem(II_WEA_YOY_LEAGENDG, 3000000, 0, 1);
-
-	DropKind(IK3_SWD, 6, 6);
-	DropKind(IK3_AXE, 6, 6);
-	DropKind(IK3_CHEERSTICK, 6, 6);
-	DropKind(IK3_KNUCKLEHAMMER, 6, 6);
-	DropKind(IK3_WAND, 6, 6);
-	DropKind(IK3_STAFF, 6, 6);
-	DropKind(IK3_HELMET, 6, 6);
-	DropKind(IK3_SUIT, 6, 6);
-	DropKind(IK3_GAUNTLET, 6, 6);
-	DropKind(IK3_BOOTS, 6, 6);
-	DropKind(IK3_SHIELD, 6, 6);
-	DropKind(IK3_BOW, 6, 6);
-	DropKind(IK3_YOYO, 6, 6);
-	DropKind(IK3_THSWD, 6, 6);
-	DropKind(IK3_THAXE, 6, 6);
-
-	DropItem(II_GEN_MAT_ORICHALCUM01, 2455000, 0, 1);
-	DropItem(II_GEN_MAT_MOONSTONE, 1256000, 0, 1);
-
-	DropItem(II_GEN_MAT_ELE_MAGMA,		 100000, 0, -1, 50, 79 ); 	//HP4% 
-	DropItem(II_GEN_MAT_ELE_FLOOD,		 100000, 0, -1, 50, 79 ); 	//MP4%
-	DropItem(II_GEN_MAT_ELE_THUNDER,	 100000, 0, -1, 50, 79 ); 	//공격력4%
-	DropItem(II_GEN_MAT_ELE_MOUNTAIN,	 100000, 0, -1, 50, 79 ); 	//방어력4%
-	DropItem(II_GEN_MAT_ELE_STORM,		 100000, 0, -1, 50, 79 ); 	//FP4%
-
-	DropItem(II_GEN_POT_DRI_VITAL800,  110000000, 0, 1);
-	DropItem(II_GEN_REF_REF_EIGHTH, 420000000, 0, 1);
-	DropItem(II_GEN_FOO_COO_MEATSALAD, 1000000001, 0, 1);
-	DropItem(II_GEN_FOO_COO_MEATSALAD, 1000000001, 0, 1);
-	DropItem(II_GEN_FOO_COO_MEATSALAD, 1000000001, 0, 1);
-	DropItem(II_GEN_FOO_ICE_ICECREAMCAKE, 600000001, 0, 1);
-	DropItem(II_GEN_FOO_ICE_ICECREAMCAKE, 600000001, 0, 1);
-
-	DropItem(II_GEN_GEM_GEM_NECKLACE, 200000000, 0, 1);
 
 	m_nAttackFirstRange = 8;
 
@@ -23627,7 +23438,7 @@ MI_Berken03
 
 MI_Berken04
 {
-	Maxitem = 4;
+	Maxitem = 1;
 	DropGold(700, 1100);
 
 	DropItem(II_WEA_SWO_LEAGENDG, 2500000, 0, 1);
@@ -23640,46 +23451,6 @@ MI_Berken04
 	DropItem(II_WEA_STA_LEAGENDG, 2500000, 0, 1);	
 	DropItem(II_WEA_BOW_LEAGENDG, 2500000, 0, 1);
 	DropItem(II_WEA_YOY_LEAGENDG, 2500000, 0, 1);
-
-	DropKind(IK3_SWD, 6, 6);
-	DropKind(IK3_AXE, 6, 6);
-	DropKind(IK3_CHEERSTICK, 6, 6);
-	DropKind(IK3_KNUCKLEHAMMER, 6, 6);
-	DropKind(IK3_WAND, 6, 6);
-	DropKind(IK3_STAFF, 6, 6);
-	DropKind(IK3_HELMET, 6, 6);
-	DropKind(IK3_SUIT, 6, 6);
-	DropKind(IK3_GAUNTLET, 6, 6);
-	DropKind(IK3_BOOTS, 6, 6);
-	DropKind(IK3_SHIELD, 6, 6);
-	DropKind(IK3_BOW, 6, 6);
-	DropKind(IK3_YOYO, 6, 6);
-	DropKind(IK3_THSWD, 6, 6);
-	DropKind(IK3_THAXE, 6, 6);
-
-	DropItem(II_GEN_MAT_ORICHALCUM01, 2455000, 0, 1);
-	DropItem(II_GEN_MAT_MOONSTONE, 1256000, 0, 1);
-
-	DropItem(II_GEN_MAT_ELE_GENERATOR, 	2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_FLAME, 		2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_RIVER, 		2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_CYCLON, 	2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_DESERT, 	2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_GENERATOR, 	5000000, 0, -1, 20, 130 ); 	//속성 카드2
-	DropItem(II_GEN_MAT_ELE_RIVER, 		5000000, 0, -1, 20, 130 ); 	//속성 카드2
-	DropItem(II_GEN_MAT_ELE_FLAME, 		5000000, 0, -1, 20, 130 ); 	//속성 카드2
-	DropItem(II_GEN_MAT_ELE_CYCLON, 		5000000, 0, -1, 20, 130 ); 	//속성 카드2
-	DropItem(II_GEN_MAT_ELE_DESERT, 		5000000, 0, -1, 20, 130 ); 	//속성 카드2
-
-	DropItem(II_GEN_POT_DRI_VITAL800,  110000000, 0, 1);
-	DropItem(II_GEN_REF_REF_EIGHTH, 420000000, 0, 1);
-	DropItem(II_GEN_FOO_COO_MEATSALAD, 1000000001, 0, 1);
-	DropItem(II_GEN_FOO_COO_MEATSALAD, 1000000001, 0, 1);
-	DropItem(II_GEN_FOO_COO_MEATSALAD, 1000000001, 0, 1);
-	DropItem(II_GEN_FOO_ICE_ICECREAMCAKE, 600000001, 0, 1);
-	DropItem(II_GEN_FOO_ICE_ICECREAMCAKE, 600000001, 0, 1);
-
-	DropItem(II_GEN_GEM_GEM_BLAD, 200000000, 0, 1);
 
 	m_nAttackFirstRange = 8;
 
@@ -23833,7 +23604,7 @@ MI_PRICKANT03
 
 MI_PRICKANT04
 {
-	Maxitem = 4;
+	Maxitem = 1;
 	DropGold(700, 1100);
 
 	DropItem(II_WEA_SWO_LEAGENDG, 4500000, 0, 1);
@@ -23846,52 +23617,6 @@ MI_PRICKANT04
 	DropItem(II_WEA_STA_LEAGENDG, 4500000, 0, 1);
 	DropItem(II_WEA_BOW_LEAGENDG, 4500000, 0, 1);
 	DropItem(II_WEA_YOY_LEAGENDG, 4500000, 0, 1);
-
-	DropKind(IK3_SWD, 6, 6);
-	DropKind(IK3_AXE, 6, 6);
-	DropKind(IK3_CHEERSTICK, 6, 6);
-	DropKind(IK3_KNUCKLEHAMMER, 6, 6);
-	DropKind(IK3_WAND, 6, 6);
-	DropKind(IK3_STAFF, 6, 6);
-	DropKind(IK3_HELMET, 6, 6);
-	DropKind(IK3_SUIT, 6, 6);
-	DropKind(IK3_GAUNTLET, 6, 6);
-	DropKind(IK3_BOOTS, 6, 6);
-	DropKind(IK3_SHIELD, 6, 6);
-	DropKind(IK3_BOW, 6, 6);
-	DropKind(IK3_YOYO, 6, 6);
-	DropKind(IK3_THSWD, 6, 6);
-	DropKind(IK3_THAXE, 6, 6);
-
-	DropItem(II_GEN_MAT_ORICHALCUM01, 2455000, 0, 1);
-	DropItem(II_GEN_MAT_MOONSTONE, 1256000, 0, 1);
-	DropItem(II_GEN_GEM_GEM_ANTEGG, 200000000, 0, 1);
-	
-
-	DropItem(II_GEN_MAT_ELE_GENERATOR, 	2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_FLAME, 		2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_RIVER, 		2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_CYCLON, 	2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_DESERT, 	2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_GENERATOR, 	5000000, 0, -1, 20, 130 ); 	//속성 카드2
-	DropItem(II_GEN_MAT_ELE_RIVER, 		5000000, 0, -1, 20, 130 ); 	//속성 카드2
-	DropItem(II_GEN_MAT_ELE_FLAME, 		5000000, 0, -1, 20, 130 ); 	//속성 카드2
-	DropItem(II_GEN_MAT_ELE_CYCLON, 		5000000, 0, -1, 20, 130 ); 	//속성 카드2
-	DropItem(II_GEN_MAT_ELE_DESERT, 		5000000, 0, -1, 20, 130 ); 	//속성 카드2
-
-	DropItem(II_GEN_MAT_ELE_MAGMA,		 100000, 0, -1, 50, 79 ); 	//HP4% 
-	DropItem(II_GEN_MAT_ELE_FLOOD,		 100000, 0, -1, 50, 79 ); 	//MP4%
-	DropItem(II_GEN_MAT_ELE_THUNDER,	 100000, 0, -1, 50, 79 ); 	//공격력4%
-	DropItem(II_GEN_MAT_ELE_MOUNTAIN,	 100000, 0, -1, 50, 79 ); 	//방어력4%
-	DropItem(II_GEN_MAT_ELE_STORM,		 100000, 0, -1, 50, 79 ); 	//FP4%
-
-	DropItem(II_GEN_POT_DRI_VITAL800,  110000000, 0, 1);
-	DropItem(II_GEN_REF_REF_EIGHTH, 420000000, 0, 1);
-	DropItem(II_GEN_FOO_COO_MEATSALAD, 1000000001, 0, 1);
-	DropItem(II_GEN_FOO_COO_MEATSALAD, 1000000001, 0, 1);
-	DropItem(II_GEN_FOO_COO_MEATSALAD, 1000000001, 0, 1);
-	DropItem(II_GEN_FOO_ICE_ICECREAMCAKE, 600000001, 0, 1);
-	DropItem(II_GEN_FOO_ICE_ICECREAMCAKE, 600000001, 0, 1);
 
 	m_nAttackFirstRange = 8;
 
@@ -24045,7 +23770,7 @@ MI_CRIPESCENTIPEDE03
 
 MI_CRIPESCENTIPEDE04
 {
-	Maxitem = 4;
+	Maxitem = 1;
 	DropGold(700, 1100);
 
 	DropItem(II_WEA_SWO_LEAGENDG, 4500000, 0, 1);
@@ -24059,50 +23784,6 @@ MI_CRIPESCENTIPEDE04
 	DropItem(II_WEA_BOW_LEAGENDG, 4500000, 0, 1);
 	DropItem(II_WEA_YOY_LEAGENDG, 4500000, 0, 1);
 
-	DropKind(IK3_SWD, 6, 6);
-	DropKind(IK3_AXE, 6, 6);
-	DropKind(IK3_CHEERSTICK, 6, 6);
-	DropKind(IK3_KNUCKLEHAMMER, 6, 6);
-	DropKind(IK3_WAND, 6, 6);
-	DropKind(IK3_STAFF, 6, 6);
-	DropKind(IK3_HELMET, 6, 6);
-	DropKind(IK3_SUIT, 6, 6);
-	DropKind(IK3_GAUNTLET, 6, 6);
-	DropKind(IK3_BOOTS, 6, 6);
-	DropKind(IK3_SHIELD, 6, 6);
-	DropKind(IK3_BOW, 6, 6);
-	DropKind(IK3_YOYO, 6, 6);
-	DropKind(IK3_THSWD, 6, 6);
-	DropKind(IK3_THAXE, 6, 6);
-
-	DropItem(II_GEN_MAT_ORICHALCUM01, 2455000, 0, 1);
-	DropItem(II_GEN_MAT_MOONSTONE, 1256000, 0, 1);
-	DropItem(II_GEN_GEM_GEM_OILLEG, 200000000, 0, 1);
-
-	DropItem(II_GEN_MAT_ELE_GENERATOR, 	2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_FLAME, 		2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_RIVER, 		2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_CYCLON, 	2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_DESERT, 	2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_GENERATOR, 	5000000, 0, -1, 20, 130 ); 	//속성 카드2
-	DropItem(II_GEN_MAT_ELE_RIVER, 		5000000, 0, -1, 20, 130 ); 	//속성 카드2
-	DropItem(II_GEN_MAT_ELE_FLAME, 		5000000, 0, -1, 20, 130 ); 	//속성 카드2
-	DropItem(II_GEN_MAT_ELE_CYCLON, 		5000000, 0, -1, 20, 130 ); 	//속성 카드2
-	DropItem(II_GEN_MAT_ELE_DESERT, 		5000000, 0, -1, 20, 130 ); 	//속성 카드2
-
-	DropItem(II_GEN_MAT_ELE_MAGMA,		 100000, 0, -1, 50, 79 ); 	//HP4% 
-	DropItem(II_GEN_MAT_ELE_FLOOD,		 100000, 0, -1, 50, 79 ); 	//MP4%
-	DropItem(II_GEN_MAT_ELE_THUNDER,	 100000, 0, -1, 50, 79 ); 	//공격력4%
-	DropItem(II_GEN_MAT_ELE_MOUNTAIN,	 100000, 0, -1, 50, 79 ); 	//방어력4%
-	DropItem(II_GEN_MAT_ELE_STORM,		 100000, 0, -1, 50, 79 ); 	//FP4%
-
-	DropItem(II_GEN_POT_DRI_VITAL800,  110000000, 0, 1);
-	DropItem(II_GEN_REF_REF_EIGHTH, 420000000, 0, 1);
-	DropItem(II_GEN_FOO_COO_MEATSALAD, 1000000001, 0, 1);
-	DropItem(II_GEN_FOO_COO_MEATSALAD, 1000000001, 0, 1);
-	DropItem(II_GEN_FOO_COO_MEATSALAD, 1000000001, 0, 1);
-	DropItem(II_GEN_FOO_ICE_ICECREAMCAKE, 600000001, 0, 1);
-	DropItem(II_GEN_FOO_ICE_ICECREAMCAKE, 600000001, 0, 1);
 
 	m_nAttackFirstRange = 8;
 
@@ -24256,7 +23937,7 @@ MI_MAULMOUSE03
 
 MI_MAULMOUSE04
 {
-	Maxitem = 4;
+	Maxitem = 1;
 	DropGold(700, 1100);
 
 	DropItem(II_WEA_SWO_LEAGENDG, 4500000, 0, 1);
@@ -24270,50 +23951,6 @@ MI_MAULMOUSE04
 	DropItem(II_WEA_BOW_LEAGENDG, 4500000, 0, 1);
 	DropItem(II_WEA_YOY_LEAGENDG, 4500000, 0, 1);
 
-	DropKind(IK3_SWD, 6, 6);
-	DropKind(IK3_AXE, 6, 6);
-	DropKind(IK3_CHEERSTICK, 6, 6);
-	DropKind(IK3_KNUCKLEHAMMER, 6, 6);
-	DropKind(IK3_WAND, 6, 6);
-	DropKind(IK3_STAFF, 6, 6);
-	DropKind(IK3_HELMET, 6, 6);
-	DropKind(IK3_SUIT, 6, 6);
-	DropKind(IK3_GAUNTLET, 6, 6);
-	DropKind(IK3_BOOTS, 6, 6);
-	DropKind(IK3_SHIELD, 6, 6);
-	DropKind(IK3_BOW, 6, 6);
-	DropKind(IK3_YOYO, 6, 6);
-	DropKind(IK3_THSWD, 6, 6);
-	DropKind(IK3_THAXE, 6, 6);
-
-	DropItem(II_GEN_MAT_ORICHALCUM01, 2455000, 0, 1);
-	DropItem(II_GEN_MAT_MOONSTONE, 1256000, 0, 1);
-	DropItem(II_GEN_GEM_GEM_NICECHEESE, 200000000, 0, 1);
-
-	DropItem(II_GEN_MAT_ELE_GENERATOR, 	2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_FLAME, 		2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_RIVER, 		2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_CYCLON, 	2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_DESERT, 	2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_GENERATOR, 	5000000, 0, -1, 20, 130 ); 	//속성 카드2
-	DropItem(II_GEN_MAT_ELE_RIVER, 		5000000, 0, -1, 20, 130 ); 	//속성 카드2
-	DropItem(II_GEN_MAT_ELE_FLAME, 		5000000, 0, -1, 20, 130 ); 	//속성 카드2
-	DropItem(II_GEN_MAT_ELE_CYCLON, 		5000000, 0, -1, 20, 130 ); 	//속성 카드2
-	DropItem(II_GEN_MAT_ELE_DESERT, 		5000000, 0, -1, 20, 130 ); 	//속성 카드2
-
-	DropItem(II_GEN_MAT_ELE_MAGMA,		 100000, 0, -1, 50, 79 ); 	//HP4% 
-	DropItem(II_GEN_MAT_ELE_FLOOD,		 100000, 0, -1, 50, 79 ); 	//MP4%
-	DropItem(II_GEN_MAT_ELE_THUNDER,	 100000, 0, -1, 50, 79 ); 	//공격력4%
-	DropItem(II_GEN_MAT_ELE_MOUNTAIN,	 100000, 0, -1, 50, 79 ); 	//방어력4%
-	DropItem(II_GEN_MAT_ELE_STORM,		 100000, 0, -1, 50, 79 ); 	//FP4%
-
-	DropItem(II_GEN_POT_DRI_VITAL800,  110000000, 0, 1);
-	DropItem(II_GEN_REF_REF_EIGHTH, 420000000, 0, 1);
-	DropItem(II_GEN_FOO_COO_MEATSALAD, 1000000001, 0, 1);
-	DropItem(II_GEN_FOO_COO_MEATSALAD, 1000000001, 0, 1);
-	DropItem(II_GEN_FOO_COO_MEATSALAD, 1000000001, 0, 1);
-	DropItem(II_GEN_FOO_ICE_ICECREAMCAKE, 600000001, 0, 1);
-	DropItem(II_GEN_FOO_ICE_ICECREAMCAKE, 600000001, 0, 1);
 
 	m_nAttackFirstRange = 8;
 
@@ -24591,7 +24228,7 @@ MI_PRICKANT03_1
 
 MI_PRICKANT04_1
 {
-	Maxitem = 5;
+	Maxitem = 1;
 	DropGold(700, 1100);
 
 	DropItem(II_WEA_SWO_LEAGENDG, 4500000, 0, 1);
@@ -24605,65 +24242,7 @@ MI_PRICKANT04_1
 	DropItem(II_WEA_BOW_LEAGENDG, 4500000, 0, 1);
 	DropItem(II_WEA_YOY_LEAGENDG, 4500000, 0, 1);
 
-	DropKind(IK3_SWD, 6, 6);
-	DropKind(IK3_AXE, 6, 6);
-	DropKind(IK3_CHEERSTICK, 6, 6);
-	DropKind(IK3_KNUCKLEHAMMER, 6, 6);
-	DropKind(IK3_WAND, 6, 6);
-	DropKind(IK3_STAFF, 6, 6);
-	DropKind(IK3_HELMET, 6, 6);
-	DropKind(IK3_SUIT, 6, 6);
-	DropKind(IK3_GAUNTLET, 6, 6);
-	DropKind(IK3_BOOTS, 6, 6);
-	DropKind(IK3_SHIELD, 6, 6);
-	DropKind(IK3_BOW, 6, 6);
-	DropKind(IK3_YOYO, 6, 6);
-	DropKind(IK3_THSWD, 6, 6);
-	DropKind(IK3_THAXE, 6, 6);
 
-	DropItem(II_GEN_MAT_ORICHALCUM01, 2455000, 0, 1);
-	DropItem(II_GEN_MAT_MOONSTONE, 1256000, 0, 1);
-
-	DropItem(II_GEN_JEW_RIN_STRRING, 3000000, 4, 1);
-	DropItem(II_GEN_JEW_RIN_INTRING, 3000000, 4, 1);
-	DropItem(II_GEN_JEW_RIN_DEXRING, 3000000, 4, 1);
-	DropItem(II_GEN_JEW_RIN_STARING, 3000000, 4, 1);
-
-	DropItem(II_GEN_JEW_RIN_STRRING, 1000000, 5, 1);
-	DropItem(II_GEN_JEW_RIN_INTRING, 1000000, 5, 1);
-	DropItem(II_GEN_JEW_RIN_DEXRING, 1000000, 5, 1);
-	DropItem(II_GEN_JEW_RIN_STARING, 1000000, 5, 1);
-
-	DropItem(II_GEN_JEW_RIN_STRRING,  500000, 6, 1);
-	DropItem(II_GEN_JEW_RIN_INTRING,  500000, 6, 1);
-	DropItem(II_GEN_JEW_RIN_DEXRING,  500000, 6, 1);
-	DropItem(II_GEN_JEW_RIN_STARING,  500000, 6, 1);
-
-	DropItem(II_GEN_MAT_ELE_GENERATOR, 	2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_FLAME, 		2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_RIVER, 		2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_CYCLON, 	2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_DESERT, 	2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_GENERATOR, 	5000000, 0, -1, 20, 130 ); 	//속성 카드2
-	DropItem(II_GEN_MAT_ELE_RIVER, 		5000000, 0, -1, 20, 130 ); 	//속성 카드2
-	DropItem(II_GEN_MAT_ELE_FLAME, 		5000000, 0, -1, 20, 130 ); 	//속성 카드2
-	DropItem(II_GEN_MAT_ELE_CYCLON, 		5000000, 0, -1, 20, 130 ); 	//속성 카드2
-	DropItem(II_GEN_MAT_ELE_DESERT, 		5000000, 0, -1, 20, 130 ); 	//속성 카드2
-
-	DropItem(II_GEN_MAT_ELE_MAGMA,		 100000, 0, -1, 50, 79 ); 	//HP4% 
-	DropItem(II_GEN_MAT_ELE_FLOOD,		 100000, 0, -1, 50, 79 ); 	//MP4%
-	DropItem(II_GEN_MAT_ELE_THUNDER,	 100000, 0, -1, 50, 79 ); 	//공격력4%
-	DropItem(II_GEN_MAT_ELE_MOUNTAIN,	 100000, 0, -1, 50, 79 ); 	//방어력4%
-	DropItem(II_GEN_MAT_ELE_STORM,		 100000, 0, -1, 50, 79 ); 	//FP4%
-
-	DropItem(II_GEN_POT_DRI_VITAL800,  110000000, 0, 1);
-	DropItem(II_GEN_REF_REF_EIGHTH, 420000000, 0, 1);
-	DropItem(II_GEN_FOO_COO_MEATSALAD, 1000000001, 0, 1);
-	DropItem(II_GEN_FOO_COO_MEATSALAD, 1000000001, 0, 1);
-	DropItem(II_GEN_FOO_COO_MEATSALAD, 1000000001, 0, 1);
-	DropItem(II_GEN_FOO_ICE_ICECREAMCAKE, 600000001, 0, 1);
-	DropItem(II_GEN_FOO_ICE_ICECREAMCAKE, 600000001, 0, 1);
-	DropItem(II_GEN_GEM_GEM_CURSEANTEGG, 200000000, 0, 1);
 
 	m_nAttackFirstRange = 8;
 
@@ -24817,7 +24396,7 @@ MI_CRIPESCENTIPEDE03_1
 
 MI_CRIPESCENTIPEDE04_1
 {
-	Maxitem = 5;
+	Maxitem = 1;
 	DropGold(700, 1100);
 
 	DropItem(II_WEA_SWO_LEAGENDG, 4500000, 0, 1);
@@ -24831,66 +24410,6 @@ MI_CRIPESCENTIPEDE04_1
 	DropItem(II_WEA_BOW_LEAGENDG, 4500000, 0, 1);
 	DropItem(II_WEA_YOY_LEAGENDG, 4500000, 0, 1);
 
-	DropKind(IK3_SWD, 6, 6);
-	DropKind(IK3_AXE, 6, 6);
-	DropKind(IK3_CHEERSTICK, 6, 6);
-	DropKind(IK3_KNUCKLEHAMMER, 6, 6);
-	DropKind(IK3_WAND, 6, 6);
-	DropKind(IK3_STAFF, 6, 6);
-	DropKind(IK3_HELMET, 6, 6);
-	DropKind(IK3_SUIT, 6, 6);
-	DropKind(IK3_GAUNTLET, 6, 6);
-	DropKind(IK3_BOOTS, 6, 6);
-	DropKind(IK3_SHIELD, 6, 6);
-	DropKind(IK3_BOW, 6, 6);
-	DropKind(IK3_YOYO, 6, 6);
-	DropKind(IK3_THSWD, 6, 6);
-	DropKind(IK3_THAXE, 6, 6);
-
-	DropItem(II_GEN_MAT_ORICHALCUM01, 2455000, 0, 1);
-	DropItem(II_GEN_MAT_MOONSTONE, 1256000, 0, 1);
-
-	DropItem(II_GEN_JEW_RIN_STRRING, 3000000, 4, 1);
-	DropItem(II_GEN_JEW_RIN_INTRING, 3000000, 4, 1);
-	DropItem(II_GEN_JEW_RIN_DEXRING, 3000000, 4, 1);
-	DropItem(II_GEN_JEW_RIN_STARING, 3000000, 4, 1);
-
-	DropItem(II_GEN_JEW_RIN_STRRING, 1000000, 5, 1);
-	DropItem(II_GEN_JEW_RIN_INTRING, 1000000, 5, 1);
-	DropItem(II_GEN_JEW_RIN_DEXRING, 1000000, 5, 1);
-	DropItem(II_GEN_JEW_RIN_STARING, 1000000, 5, 1);
-
-	DropItem(II_GEN_JEW_RIN_STRRING,  500000, 6, 1);
-	DropItem(II_GEN_JEW_RIN_INTRING,  500000, 6, 1);
-	DropItem(II_GEN_JEW_RIN_DEXRING,  500000, 6, 1);
-	DropItem(II_GEN_JEW_RIN_STARING,  500000, 6, 1);
-
-	DropItem(II_GEN_MAT_ELE_GENERATOR, 	2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_FLAME, 		2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_RIVER, 		2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_CYCLON, 	2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_DESERT, 	2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_GENERATOR, 	5000000, 0, -1, 20, 130 ); 	//속성 카드2
-	DropItem(II_GEN_MAT_ELE_RIVER, 		5000000, 0, -1, 20, 130 ); 	//속성 카드2
-	DropItem(II_GEN_MAT_ELE_FLAME, 		5000000, 0, -1, 20, 130 ); 	//속성 카드2
-	DropItem(II_GEN_MAT_ELE_CYCLON, 		5000000, 0, -1, 20, 130 ); 	//속성 카드2
-	DropItem(II_GEN_MAT_ELE_DESERT, 		5000000, 0, -1, 20, 130 ); 	//속성 카드2
-
-	DropItem(II_GEN_MAT_ELE_MAGMA,		 100000, 0, -1, 50, 79 ); 	//HP4% 
-	DropItem(II_GEN_MAT_ELE_FLOOD,		 100000, 0, -1, 50, 79 ); 	//MP4%
-	DropItem(II_GEN_MAT_ELE_THUNDER,	 100000, 0, -1, 50, 79 ); 	//공격력4%
-	DropItem(II_GEN_MAT_ELE_MOUNTAIN,	 100000, 0, -1, 50, 79 ); 	//방어력4%
-	DropItem(II_GEN_MAT_ELE_STORM,		 100000, 0, -1, 50, 79 ); 	//FP4%
-
-	DropItem(II_GEN_POT_DRI_VITAL800,  110000000, 0, 1);
-	DropItem(II_GEN_REF_REF_EIGHTH, 420000000, 0, 1);
-	DropItem(II_GEN_FOO_COO_MEATSALAD, 1000000001, 0, 1);
-	DropItem(II_GEN_FOO_COO_MEATSALAD, 1000000001, 0, 1);
-	DropItem(II_GEN_FOO_COO_MEATSALAD, 1000000001, 0, 1);
-	DropItem(II_GEN_FOO_ICE_ICECREAMCAKE, 600000001, 0, 1);
-	DropItem(II_GEN_FOO_ICE_ICECREAMCAKE, 600000001, 0, 1);
-
-	DropItem(II_GEN_GEM_GEM_CURSEOILLEG, 200000000, 0, 1);
 
 	m_nAttackFirstRange = 8;
 
@@ -25044,7 +24563,7 @@ MI_MAULMOUSE03_1
 
 MI_MAULMOUSE04_1
 {
-	Maxitem = 5;
+	Maxitem = 1;
 	DropGold(700, 1100);
 
 	DropItem(II_WEA_SWO_LEAGENDG, 4500000, 0, 1);
@@ -25058,66 +24577,6 @@ MI_MAULMOUSE04_1
 	DropItem(II_WEA_BOW_LEAGENDG, 4500000, 0, 1);
 	DropItem(II_WEA_YOY_LEAGENDG, 4500000, 0, 1);
 
-	DropKind(IK3_SWD, 6, 6);
-	DropKind(IK3_AXE, 6, 6);
-	DropKind(IK3_CHEERSTICK, 6, 6);
-	DropKind(IK3_KNUCKLEHAMMER, 6, 6);
-	DropKind(IK3_WAND, 6, 6);
-	DropKind(IK3_STAFF, 6, 6);
-	DropKind(IK3_HELMET, 6, 6);
-	DropKind(IK3_SUIT, 6, 6);
-	DropKind(IK3_GAUNTLET, 6, 6);
-	DropKind(IK3_BOOTS, 6, 6);
-	DropKind(IK3_SHIELD, 6, 6);
-	DropKind(IK3_BOW, 6, 6);
-	DropKind(IK3_YOYO, 6, 6);
-	DropKind(IK3_THSWD, 6, 6);
-	DropKind(IK3_THAXE, 6, 6);
-
-	DropItem(II_GEN_MAT_ORICHALCUM01, 2455000, 0, 1);
-	DropItem(II_GEN_MAT_MOONSTONE, 1256000, 0, 1);
-
-	DropItem(II_GEN_JEW_RIN_STRRING, 3000000, 4, 1);
-	DropItem(II_GEN_JEW_RIN_INTRING, 3000000, 4, 1);
-	DropItem(II_GEN_JEW_RIN_DEXRING, 3000000, 4, 1);
-	DropItem(II_GEN_JEW_RIN_STARING, 3000000, 4, 1);
-
-	DropItem(II_GEN_JEW_RIN_STRRING, 1000000, 5, 1);
-	DropItem(II_GEN_JEW_RIN_INTRING, 1000000, 5, 1);
-	DropItem(II_GEN_JEW_RIN_DEXRING, 1000000, 5, 1);
-	DropItem(II_GEN_JEW_RIN_STARING, 1000000, 5, 1);
-
-	DropItem(II_GEN_JEW_RIN_STRRING,  500000, 6, 1);
-	DropItem(II_GEN_JEW_RIN_INTRING,  500000, 6, 1);
-	DropItem(II_GEN_JEW_RIN_DEXRING,  500000, 6, 1);
-	DropItem(II_GEN_JEW_RIN_STARING,  500000, 6, 1);
-
-	DropItem(II_GEN_MAT_ELE_GENERATOR, 	2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_FLAME, 		2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_RIVER, 		2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_CYCLON, 	2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_DESERT, 	2000000, 0, -1, 20, 130 ); 	//속성 카드3 
-	DropItem(II_GEN_MAT_ELE_GENERATOR, 	5000000, 0, -1, 20, 130 ); 	//속성 카드2
-	DropItem(II_GEN_MAT_ELE_RIVER, 		5000000, 0, -1, 20, 130 ); 	//속성 카드2
-	DropItem(II_GEN_MAT_ELE_FLAME, 		5000000, 0, -1, 20, 130 ); 	//속성 카드2
-	DropItem(II_GEN_MAT_ELE_CYCLON, 		5000000, 0, -1, 20, 130 ); 	//속성 카드2
-	DropItem(II_GEN_MAT_ELE_DESERT, 		5000000, 0, -1, 20, 130 ); 	//속성 카드2
-
-	DropItem(II_GEN_MAT_ELE_MAGMA,		 100000, 0, -1, 50, 79 ); 	//HP4% 
-	DropItem(II_GEN_MAT_ELE_FLOOD,		 100000, 0, -1, 50, 79 ); 	//MP4%
-	DropItem(II_GEN_MAT_ELE_THUNDER,	 100000, 0, -1, 50, 79 ); 	//공격력4%
-	DropItem(II_GEN_MAT_ELE_MOUNTAIN,	 100000, 0, -1, 50, 79 ); 	//방어력4%
-	DropItem(II_GEN_MAT_ELE_STORM,		 100000, 0, -1, 50, 79 ); 	//FP4%
-
-	DropItem(II_GEN_POT_DRI_VITAL800,  110000000, 0, 1);
-	DropItem(II_GEN_REF_REF_EIGHTH, 420000000, 0, 1);
-	DropItem(II_GEN_FOO_COO_MEATSALAD, 1000000001, 0, 1);
-	DropItem(II_GEN_FOO_COO_MEATSALAD, 1000000001, 0, 1);
-	DropItem(II_GEN_FOO_COO_MEATSALAD, 1000000001, 0, 1);
-	DropItem(II_GEN_FOO_ICE_ICECREAMCAKE, 600000001, 0, 1);
-	DropItem(II_GEN_FOO_ICE_ICECREAMCAKE, 600000001, 0, 1);
-
-	DropItem(II_GEN_GEM_GEM_CURSENICECHEESE, 200000000, 0, 1);
 
 	m_nAttackFirstRange = 8;
 
