@@ -5903,7 +5903,7 @@ MI_NUTTYWHEEL3
 }
 MI_NUTTYWHEEL4
 {
-	Maxitem = 1;
+	Maxitem = 2;
 	DropGold(386, 560);
 
 	DropItem(II_WEA_SWO_SUHO, 3600000, 0, 1);
@@ -5916,7 +5916,7 @@ MI_NUTTYWHEEL4
 	DropItem(II_WEA_STA_SUHO, 3600000, 0, 1);
 	DropItem(II_WEA_BOW_SUHO, 3600000, 0, 1);
 	DropItem(II_WEA_YOY_SUHO, 3600000, 0, 1);
-	DropItem(II_ARM_ARM_SHI_ANCIENT, 30000000, 0, 1);
+	DropItem(II_PET_EGG, 3000000000, 0, 1);
 
 	
 	m_nAttackFirstRange = 8;
@@ -6080,7 +6080,7 @@ MI_DRILLER3
 }
 MI_DRILLER4
 {
-	Maxitem = 1;
+	Maxitem = 2;
 	DropGold(397, 576);
 
 	DropItem(II_WEA_SWO_SUHO, 3600000, 0, 1);
@@ -6093,6 +6093,7 @@ MI_DRILLER4
 	DropItem(II_WEA_STA_SUHO, 3600000, 0, 1);
 	DropItem(II_WEA_BOW_SUHO, 3600000, 0, 1);
 	DropItem(II_WEA_YOY_SUHO, 3600000, 0, 1);
+	DropItem(II_PET_EGG, 3000000000, 0, 1);
 
 
 
@@ -6258,7 +6259,7 @@ MI_VOLT3
 }
 MI_VOLT4
 {
-	Maxitem = 1;
+	Maxitem = 2;
 	DropGold(408, 592);
 
 
@@ -6272,6 +6273,7 @@ MI_VOLT4
 	DropItem(II_WEA_STA_SUHO, 3600000, 0, 1);
 	DropItem(II_WEA_BOW_SUHO, 3600000, 0, 1);
 	DropItem(II_WEA_YOY_SUHO, 3600000, 0, 1);
+	DropItem(II_PET_EGG, 3000000000, 0, 1);
 
 
 
@@ -6439,7 +6441,7 @@ MI_ELDERGUARD3
 }
 MI_ELDERGUARD4
 {
-	Maxitem = 1;
+	Maxitem = 2;
 	DropGold(420, 609);
 
 	DropItem(II_WEA_SWO_SUHO, 3600000, 0, 1);
@@ -6452,6 +6454,7 @@ MI_ELDERGUARD4
 	DropItem(II_WEA_STA_SUHO, 3600000, 0, 1);
 	DropItem(II_WEA_BOW_SUHO, 3600000, 0, 1);
 	DropItem(II_WEA_YOY_SUHO, 3600000, 0, 1);
+	DropItem(II_PET_EGG, 3000000000, 0, 1);
 
 
 	m_nAttackFirstRange = 8;
@@ -6622,7 +6625,7 @@ MI_GARBAGEPIDER3
 }
 MI_GARBAGEPIDER4
 {
-	Maxitem = 1;
+	Maxitem = 2;
 	DropGold(436, 633);
 
 	DropItem(II_WEA_SWO_SUHO, 3600000, 0, 1);
@@ -6635,6 +6638,7 @@ MI_GARBAGEPIDER4
 	DropItem(II_WEA_STA_SUHO, 3600000, 0, 1);
 	DropItem(II_WEA_BOW_SUHO, 3600000, 0, 1);
 	DropItem(II_WEA_YOY_SUHO, 3600000, 0, 1);
+	DropItem(II_PET_EGG, 3000000000, 0, 1);
 
 	m_nAttackFirstRange = 8;
 
@@ -6802,7 +6806,7 @@ MI_CRANEMACHINERY3
 }
 MI_CRANEMACHINERY4
 {
-	Maxitem = 1;
+	Maxitem = 2;
 	DropGold(500, 1000);
 
 	DropItem(II_WEA_SWO_SUHO, 3600000, 0, 1);
@@ -6815,6 +6819,7 @@ MI_CRANEMACHINERY4
 	DropItem(II_WEA_STA_SUHO, 3600000, 0, 1);
 	DropItem(II_WEA_BOW_SUHO, 3600000, 0, 1);
 	DropItem(II_WEA_YOY_SUHO, 3600000, 0, 1);
+	DropItem(II_PET_EGG, 3000000000, 0, 1);
 
 	m_nAttackFirstRange = 8;
 
@@ -7382,7 +7387,7 @@ MI_SYLIACA3
 
 MI_SYLIACA4
 {
-	Maxitem = 1;
+	Maxitem = 2;
 	DropGold(592, 860);
 
 	DropItem(II_WEA_SWO_USU, 2700000, 0, 1);
@@ -7395,6 +7400,7 @@ MI_SYLIACA4
 	DropItem(II_WEA_STA_USU, 2700000, 0, 1);
 	DropItem(II_WEA_BOW_USU, 2700000, 0, 1);
 	DropItem(II_WEA_YOY_USU, 2700000, 0, 1);
+	DropItem(II_PET_EGG, 3000000000, 0, 1);
 
 
 
@@ -7759,7 +7765,7 @@ MI_GREEMONG3
 
 MI_GREEMONG4
 {
-	Maxitem = 1;
+	Maxitem = 2;
 	DropGold(682, 990);
 
 	DropItem(II_WEA_SWO_USU, 2700000, 0, 1);
@@ -7772,6 +7778,7 @@ MI_GREEMONG4
 	DropItem(II_WEA_STA_USU, 2700000, 0, 1);
 	DropItem(II_WEA_BOW_USU, 2700000, 0, 1);
 	DropItem(II_WEA_YOY_USU, 2700000, 0, 1);
+	DropItem(II_PET_EGG, 3000000000, 0, 1);
 
 	m_nAttackFirstRange = 8;
 
@@ -7921,7 +7928,7 @@ MI_PIRE3
 }
 MI_PIRE4
 {
-	Maxitem = 1;
+	Maxitem = 2;
 	DropGold(176, 256);
 	
 	DropItem(II_WEA_SWO_USU, 2700000, 0, 1);
@@ -7934,6 +7941,7 @@ MI_PIRE4
 	DropItem(II_WEA_STA_USU, 2700000, 0, 1);
 	DropItem(II_WEA_BOW_USU, 2700000, 0, 1);
 	DropItem(II_WEA_YOY_USU, 2700000, 0, 1);
+	DropItem(II_PET_EGG, 3000000000, 0, 1);
 
 	
 	m_nAttackFirstRange = 8;
@@ -8081,7 +8089,7 @@ MI_CLAWDOLL3
 }
 MI_CLAWDOLL4
 {
-	Maxitem = 1;
+	Maxitem = 2;
 	DropGold(176, 256);
 	
 	DropItem(II_WEA_SWO_USU, 2700000, 0, 1);
@@ -8094,6 +8102,7 @@ MI_CLAWDOLL4
 	DropItem(II_WEA_STA_USU, 2700000, 0, 1);
 	DropItem(II_WEA_BOW_USU, 2700000, 0, 1);
 	DropItem(II_WEA_YOY_USU, 2700000, 0, 1);
+	DropItem(II_PET_EGG, 3000000000, 0, 1);
 
 	
 	m_nAttackFirstRange = 8;
@@ -8251,7 +8260,7 @@ MI_CARRIERBOMB3
 
 MI_CARRIERBOMB4
 {
-	Maxitem = 1;
+	Maxitem = 2;
 	DropGold(660, 958);
 
 
@@ -8265,6 +8274,7 @@ MI_CARRIERBOMB4
 	DropItem(II_WEA_STA_USU, 2700000, 0, 1);
 	DropItem(II_WEA_BOW_USU, 2700000, 0, 1);
 	DropItem(II_WEA_YOY_USU, 2700000, 0, 1);
+	DropItem(II_PET_EGG, 3000000000, 0, 1);
 
 
 	m_nAttackFirstRange = 8;
@@ -9136,7 +9146,7 @@ MI_RISEM3
 MI_RISEM4
 {
 
-	Maxitem = 1;
+	Maxitem = 2;
 	DropGold(397, 576);
 	DropItem(II_WEA_SWO_SUHO, 3600000, 0, 1);
 	DropItem(II_WEA_SWT_SUHO, 3600000, 0, 1);
@@ -9148,6 +9158,7 @@ MI_RISEM4
 	DropItem(II_WEA_STA_SUHO, 3600000, 0, 1);
 	DropItem(II_WEA_BOW_SUHO, 3600000, 0, 1);
 	DropItem(II_WEA_YOY_SUHO, 3600000, 0, 1);
+	DropItem(II_PET_EGG, 3000000000, 0, 1);
 
 	SetCallHelper( 100, MI_RISEM3, 5, TRUE);
 	SetCallHelper( 100, MI_RISEM2, 5, TRUE);
@@ -9328,7 +9339,7 @@ MI_NUCTUVEHICLE3
 
 MI_NUCTUVEHICLE4
 {
-	Maxitem = 1;
+	Maxitem = 2;
 	DropGold(386, 560);
 
 	DropItem(II_WEA_SWO_SUHO, 3600000, 0, 1);
@@ -9341,6 +9352,7 @@ MI_NUCTUVEHICLE4
 	DropItem(II_WEA_STA_SUHO, 3600000, 0, 1);
 	DropItem(II_WEA_BOW_SUHO, 3600000, 0, 1);
 	DropItem(II_WEA_YOY_SUHO, 3600000, 0, 1);
+	DropItem(II_PET_EGG, 3000000000, 0, 1);
 
 	SetCallHelper( 100, MI_NUCTUVEHICLE3, 5, TRUE);
 	SetCallHelper( 100, MI_NUCTUVEHICLE2, 5, TRUE);
@@ -10652,7 +10664,7 @@ MI_GRRR3
 
 MI_GRRR4
 {
-	Maxitem = 1;
+	Maxitem = 2;
 	DropGold(616, 893);
 
 	DropItem(II_WEA_SWO_ANGEL, 2700000, 0, 1);
@@ -10665,6 +10677,7 @@ MI_GRRR4
 	DropItem(II_WEA_STA_ANGEL, 2700000, 0, 1);
 	DropItem(II_WEA_BOW_ANGEL, 2700000, 0, 1);
 	DropItem(II_WEA_YOY_ANGEL, 2700000, 0, 1);
+	DropItem(II_PET_EGG, 3000000000, 0, 1);
 
 
 	m_nAttackFirstRange = 8;
@@ -11212,7 +11225,7 @@ MI_DUMP3
 
 MI_DUMP4
 {
-	Maxitem = 1;
+	Maxitem = 2;
 	DropGold(644, 933);
 
 	DropItem(II_WEA_SWO_ANGEL, 3150000, 0, 1);
@@ -11225,6 +11238,7 @@ MI_DUMP4
 	DropItem(II_WEA_STA_ANGEL, 3150000, 0, 1);
 	DropItem(II_WEA_BOW_ANGEL, 3150000, 0, 1);
 	DropItem(II_WEA_YOY_ANGEL, 3150000, 0, 1);
+	DropItem(II_PET_EGG, 3000000000, 0, 1);
 
 	
 	m_nAttackFirstRange = 8;
@@ -11389,7 +11403,7 @@ MI_NAUTREPY3
 
 MI_NAUTREPY4
 {
-	Maxitem = 1;
+	Maxitem = 2;
 	DropGold(464, 673);
 
 	DropItem(II_WEA_SWO_USU, 2700000, 0, 1);
@@ -11402,6 +11416,7 @@ MI_NAUTREPY4
 	DropItem(II_WEA_STA_USU, 2700000, 0, 1);
 	DropItem(II_WEA_BOW_USU, 2700000, 0, 1);
 	DropItem(II_WEA_YOY_USU, 2700000, 0, 1);
+	DropItem(II_PET_EGG, 3000000000, 0, 1);
 
 	m_nAttackFirstRange = 8;
 	
@@ -11564,7 +11579,7 @@ MI_BOO3
 
 MI_BOO4
 {
-	Maxitem = 1;
+	Maxitem = 2;
 	DropGold(492, 714);
 
 	DropItem(II_WEA_SWO_USU, 2700000, 0, 1);
@@ -11577,6 +11592,7 @@ MI_BOO4
 	DropItem(II_WEA_STA_USU, 2700000, 0, 1);
 	DropItem(II_WEA_BOW_USU, 2700000, 0, 1);
 	DropItem(II_WEA_YOY_USU, 2700000, 0, 1);
+	DropItem(II_PET_EGG, 3000000000, 0, 1);
 	
 
 	m_nAttackFirstRange = 8;
@@ -11739,7 +11755,7 @@ MI_HOPPRE3
 
 MI_HOPPRE4
 {
-	Maxitem = 1;
+	Maxitem = 2;
 	DropGold(515, 747);
 
 	DropItem(II_WEA_SWO_USU, 3150000, 0, 1);
@@ -11752,6 +11768,7 @@ MI_HOPPRE4
 	DropItem(II_WEA_STA_USU, 3150000, 0, 1);
 	DropItem(II_WEA_BOW_USU, 3150000, 0, 1);
 	DropItem(II_WEA_YOY_USU, 3150000, 0, 1);
+	DropItem(II_PET_EGG, 3000000000, 0, 1);
 	
 
 	m_nAttackFirstRange = 8;
@@ -11913,7 +11930,7 @@ MI_MUSHPOIE3
 
 MI_MUSHPOIE4
 {
-	Maxitem = 1;
+	Maxitem = 2;
 	DropGold(537, 779);
 
 	DropItem(II_WEA_SWO_USU, 3600000, 0, 1);
@@ -11926,6 +11943,7 @@ MI_MUSHPOIE4
 	DropItem(II_WEA_STA_USU, 3600000, 0, 1);
 	DropItem(II_WEA_BOW_USU, 3600000, 0, 1);
 	DropItem(II_WEA_YOY_USU, 3600000, 0, 1);
+	DropItem(II_PET_EGG, 3000000000, 0, 1);
 
 	m_nAttackFirstRange = 8;
 
@@ -12084,7 +12102,7 @@ MI_IREN3
 
 MI_IREN4
 {
-	Maxitem = 1;
+	Maxitem = 2;
 	DropGold(560, 812);
 
 	DropItem(II_WEA_SWO_ANGEL, 3150000, 0, 1);
@@ -12097,7 +12115,7 @@ MI_IREN4
 	DropItem(II_WEA_STA_ANGEL, 3150000, 0, 1);
 	DropItem(II_WEA_BOW_ANGEL, 3150000, 0, 1);
 	DropItem(II_WEA_YOY_ANGEL, 3150000, 0, 1);
-
+	DropItem(II_PET_EGG, 3000000000, 0, 1);
 	
 
 	m_nAttackFirstRange = 8;
@@ -12258,7 +12276,7 @@ MI_WATANGKA3
 
 MI_WATANGKA4
 {
-	Maxitem = 5;
+	Maxitem = 2;
 	DropGold(588, 852);
 
 	DropItem(II_WEA_SWO_ANGEL, 3150000, 0, 1);
@@ -12271,6 +12289,7 @@ MI_WATANGKA4
 	DropItem(II_WEA_STA_ANGEL, 3150000, 0, 1);
 	DropItem(II_WEA_BOW_ANGEL, 3150000, 0, 1);
 	DropItem(II_WEA_YOY_ANGEL, 3150000, 0, 1);
+	DropItem(II_PET_EGG, 3000000000, 0, 1);
 
 	
 	m_nAttackFirstRange = 8;
@@ -12432,7 +12451,7 @@ MI_ANTIQUERY3
 
 MI_ANTIQUERY4
 {
-	Maxitem = 1;
+	Maxitem = 2;
 	DropGold(616, 893);
 
 	DropItem(II_WEA_SWO_ANGEL, 2700000, 0, 1);
@@ -12445,7 +12464,7 @@ MI_ANTIQUERY4
 	DropItem(II_WEA_STA_ANGEL, 2700000, 0, 1);
 	DropItem(II_WEA_BOW_ANGEL, 2700000, 0, 1);
 	DropItem(II_WEA_YOY_ANGEL, 2700000, 0, 1);
-
+	DropItem(II_PET_EGG, 3000000000, 0, 1);
 	
 
 	m_nAttackFirstRange = 8;
@@ -12602,7 +12621,7 @@ MI_LUIA3
 
 MI_LUIA4
 {
-	Maxitem = 1;
+	Maxitem = 2;
 	DropGold(644, 933);
 
 	DropItem(II_WEA_SWO_ANGEL, 3150000, 0, 1);
@@ -12615,7 +12634,7 @@ MI_LUIA4
 	DropItem(II_WEA_STA_ANGEL, 3150000, 0, 1);
 	DropItem(II_WEA_BOW_ANGEL, 3150000, 0, 1);
 	DropItem(II_WEA_YOY_ANGEL, 3150000, 0, 1);
-
+	DropItem(II_PET_EGG, 3000000000, 0, 1);
 	
 
 	m_nAttackFirstRange = 8;
@@ -12776,7 +12795,7 @@ MI_GONGURY3
 
 MI_GONGURY4
 {
-	Maxitem = 1;
+	Maxitem = 2;
 	DropGold(672, 974);
 
 	DropItem(II_WEA_SWO_ANGEL, 3600000, 0, 1);
@@ -12789,6 +12808,7 @@ MI_GONGURY4
 	DropItem(II_WEA_STA_ANGEL, 3600000, 0, 1);
 	DropItem(II_WEA_BOW_ANGEL, 3600000, 0, 1);
 	DropItem(II_WEA_YOY_ANGEL, 3600000, 0, 1);
+	DropItem(II_PET_EGG, 3000000000, 0, 1);
 
 	
 	m_nAttackFirstRange = 8;
@@ -12948,7 +12968,7 @@ MI_SHUHAMMA3
 
 MI_SHUHAMMA4
 {
-	Maxitem = 1;
+	Maxitem = 2;
 	DropGold(694, 1006);
 
 	DropItem(II_WEA_SWO_ANGEL, 4050000, 0, 1);
@@ -12961,6 +12981,7 @@ MI_SHUHAMMA4
 	DropItem(II_WEA_STA_ANGEL, 4050000, 0, 1);
 	DropItem(II_WEA_BOW_ANGEL, 4050000, 0, 1);
 	DropItem(II_WEA_YOY_ANGEL, 4050000, 0, 1);
+	DropItem(II_PET_EGG, 3000000000, 0, 1);
 	
 
 	m_nAttackFirstRange = 8;
@@ -13118,7 +13139,7 @@ MI_KERN3
 
 MI_KERN4
 {
-	Maxitem = 1;
+	Maxitem = 2;
 	DropGold(694, 1006);
 	
 	DropItem(II_WEA_SWO_LEAGENDG, 2700000, 0, 1);
@@ -13131,6 +13152,7 @@ MI_KERN4
 	DropItem(II_WEA_STA_LEAGENDG, 2700000, 0, 1);
 	DropItem(II_WEA_BOW_LEAGENDG, 2700000, 0, 1);
 	DropItem(II_WEA_YOY_LEAGENDG, 2700000, 0, 1);
+	DropItem(II_PET_EGG, 3000000000, 0, 1);
 
 
 	m_nAttackFirstRange = 8;
@@ -13291,7 +13313,7 @@ MI_GLAPHAN3
 
 MI_GLAPHAN4
 {
-	Maxitem = 1;
+	Maxitem = 2;
 	DropGold(694, 1006);
 
 	DropItem(II_WEA_SWO_LEAGENDG, 2700000, 0, 1);
@@ -13304,7 +13326,7 @@ MI_GLAPHAN4
 	DropItem(II_WEA_STA_LEAGENDG, 2700000, 0, 1);
 	DropItem(II_WEA_BOW_LEAGENDG, 2700000, 0, 1);
 	DropItem(II_WEA_YOY_LEAGENDG, 2700000, 0, 1);
-
+	DropItem(II_PET_EGG, 3000000000, 0, 1);
 	
 
 	m_nAttackFirstRange = 8;
@@ -13493,7 +13515,7 @@ MI_KIMERADON4
 
 MI_KIMERADON5
 {
-	Maxitem = 1;
+	Maxitem = 2;
 	DropGold(672, 974);
 
 	DropItem(II_WEA_SWO_ANGEL, 3600000, 0, 1);
@@ -13506,6 +13528,7 @@ MI_KIMERADON5
 	DropItem(II_WEA_STA_ANGEL, 3600000, 0, 1);
 	DropItem(II_WEA_BOW_ANGEL, 3600000, 0, 1);
 	DropItem(II_WEA_YOY_ANGEL, 3600000, 0, 1);
+	DropItem(II_PET_EGG, 3000000000, 0, 1);
 
 	m_nAttackFirstRange = 8;
 
@@ -13689,7 +13712,7 @@ MI_BEARNUCKY4
 
 MI_BEARNUCKY5
 {
-	Maxitem = 1;
+	Maxitem = 2;
 	DropGold(694, 1006);
 
 	DropItem(II_WEA_SWO_LEAGENDG, 2700000, 0, 1);
@@ -13702,6 +13725,7 @@ MI_BEARNUCKY5
 	DropItem(II_WEA_STA_LEAGENDG, 2700000, 0, 1);
 	DropItem(II_WEA_BOW_LEAGENDG, 2700000, 0, 1);
 	DropItem(II_WEA_YOY_LEAGENDG, 2700000, 0, 1);
+	DropItem(II_PET_EGG, 3000000000, 0, 1);
 
 
 	m_nAttackFirstRange = 8;
@@ -13886,7 +13910,7 @@ MI_MUFFRIN4
 
 MI_MUFFRIN6
 {
-	Maxitem = 1;
+	Maxitem = 2;
 	DropGold(694, 1006);
 
 	DropItem(II_WEA_SWO_LEAGENDG, 2700000, 0, 1);
@@ -13899,6 +13923,7 @@ MI_MUFFRIN6
 	DropItem(II_WEA_STA_LEAGENDG, 2700000, 0, 1);
 	DropItem(II_WEA_BOW_LEAGENDG, 2700000, 0, 1);
 	DropItem(II_WEA_YOY_LEAGENDG, 2700000, 0, 1);
+	DropItem(II_PET_EGG, 3000000000, 0, 1);
 
 
 	m_nAttackFirstRange = 8;
@@ -14083,7 +14108,7 @@ MI_POPCRANK4
 
 MI_POPCRANK5
 {
-	Maxitem = 1;
+	Maxitem = 2;
 	DropGold(694, 1006);
 
 	DropItem(II_WEA_SWO_LEAGENDG, 2700000, 0, 1);
@@ -14096,6 +14121,7 @@ MI_POPCRANK5
 	DropItem(II_WEA_STA_LEAGENDG, 2700000, 0, 1);
 	DropItem(II_WEA_BOW_LEAGENDG, 2700000, 0, 1);
 	DropItem(II_WEA_YOY_LEAGENDG, 2700000, 0, 1);
+	DropItem(II_PET_EGG, 3000000000, 0, 1);
 
 
 	m_nAttackFirstRange = 8;
@@ -17291,7 +17317,7 @@ MI_DU_METEONYKER2
 	DropKind(IK3_THSWD, 6, 6);
 	DropKind(IK3_THAXE, 6, 6);
 
-        DropItem(II_PET_EGG, 600000000, 0, 1);
+    DropItem(II_PET_EGG, 600000000, 0, 1);
 	DropItem(II_GEN_GEM_GEM_DRAGONHEART, 4500000000, 0, 1);
 	DropItem(II_GEN_GEM_GEM_DRAGONCANINE, 3000000000, 0, 1);
 	
@@ -22776,7 +22802,7 @@ MI_Crohell03
 
 MI_Crohell04
 {
-	Maxitem = 1;
+	Maxitem = 2;
 	DropGold(700, 1100);
 
 	DropItem(II_WEA_SWO_LEAGENDG, 3000000, 0, 1);
@@ -22789,6 +22815,7 @@ MI_Crohell04
 	DropItem(II_WEA_STA_LEAGENDG, 3000000, 0, 1);
 	DropItem(II_WEA_BOW_LEAGENDG, 3000000, 0, 1);
 	DropItem(II_WEA_YOY_LEAGENDG, 3000000, 0, 1);
+	DropItem(II_PET_EGG, 3000000000, 0, 1);
 
 	m_nAttackFirstRange = 8;
 
@@ -22941,7 +22968,7 @@ MI_Frinker03
 
 MI_Frinker04
 {
-	Maxitem = 1;
+	Maxitem = 2;
 	DropGold(700, 1100);
 
 	DropItem(II_WEA_SWO_LEAGENDG, 3000000, 0, 1);
@@ -22954,6 +22981,7 @@ MI_Frinker04
 	DropItem(II_WEA_STA_LEAGENDG, 3000000, 0, 1);
 	DropItem(II_WEA_BOW_LEAGENDG, 3000000, 0, 1);
 	DropItem(II_WEA_YOY_LEAGENDG, 3000000, 0, 1);
+	DropItem(II_PET_EGG, 3000000000, 0, 1);
 
 	m_nAttackFirstRange = 8;
 
@@ -23106,7 +23134,7 @@ MI_Toadrin03
 
 MI_Toadrin04
 {
-	Maxitem = 1;
+	Maxitem = 2;
 	DropGold(700, 1100);
 
 	DropItem(II_WEA_SWO_LEAGENDG, 2000000, 0, 1);
@@ -23119,6 +23147,7 @@ MI_Toadrin04
 	DropItem(II_WEA_STA_LEAGENDG, 2000000, 0, 1);
 	DropItem(II_WEA_BOW_LEAGENDG, 2000000, 0, 1);
 	DropItem(II_WEA_YOY_LEAGENDG, 2000000, 0, 1);
+	DropItem(II_PET_EGG, 3000000000, 0, 1);
 
 	m_nAttackFirstRange = 8;
 
@@ -23272,7 +23301,7 @@ MI_Hatsalra03
 
 MI_Hatsalra04
 {
-	Maxitem = 1;
+	Maxitem = 2;
 	DropGold(700, 1100);
 
 	DropItem(II_WEA_SWO_LEAGENDG, 3000000, 0, 1);
@@ -23285,6 +23314,7 @@ MI_Hatsalra04
 	DropItem(II_WEA_STA_LEAGENDG, 3000000, 0, 1);
 	DropItem(II_WEA_BOW_LEAGENDG, 3000000, 0, 1);
 	DropItem(II_WEA_YOY_LEAGENDG, 3000000, 0, 1);
+	DropItem(II_PET_EGG, 3000000000, 0, 1);
 
 	m_nAttackFirstRange = 8;
 
@@ -23438,7 +23468,7 @@ MI_Berken03
 
 MI_Berken04
 {
-	Maxitem = 1;
+	Maxitem = 2;
 	DropGold(700, 1100);
 
 	DropItem(II_WEA_SWO_LEAGENDG, 2500000, 0, 1);
@@ -23451,6 +23481,7 @@ MI_Berken04
 	DropItem(II_WEA_STA_LEAGENDG, 2500000, 0, 1);	
 	DropItem(II_WEA_BOW_LEAGENDG, 2500000, 0, 1);
 	DropItem(II_WEA_YOY_LEAGENDG, 2500000, 0, 1);
+	DropItem(II_PET_EGG, 3000000000, 0, 1);
 
 	m_nAttackFirstRange = 8;
 
@@ -23604,7 +23635,7 @@ MI_PRICKANT03
 
 MI_PRICKANT04
 {
-	Maxitem = 1;
+	Maxitem = 2;
 	DropGold(700, 1100);
 
 	DropItem(II_WEA_SWO_LEAGENDG, 4500000, 0, 1);
@@ -23617,6 +23648,7 @@ MI_PRICKANT04
 	DropItem(II_WEA_STA_LEAGENDG, 4500000, 0, 1);
 	DropItem(II_WEA_BOW_LEAGENDG, 4500000, 0, 1);
 	DropItem(II_WEA_YOY_LEAGENDG, 4500000, 0, 1);
+	DropItem(II_PET_EGG, 3000000000, 0, 1);
 
 	m_nAttackFirstRange = 8;
 
@@ -23770,7 +23802,7 @@ MI_CRIPESCENTIPEDE03
 
 MI_CRIPESCENTIPEDE04
 {
-	Maxitem = 1;
+	Maxitem = 2;
 	DropGold(700, 1100);
 
 	DropItem(II_WEA_SWO_LEAGENDG, 4500000, 0, 1);
@@ -23783,6 +23815,7 @@ MI_CRIPESCENTIPEDE04
 	DropItem(II_WEA_STA_LEAGENDG, 4500000, 0, 1);
 	DropItem(II_WEA_BOW_LEAGENDG, 4500000, 0, 1);
 	DropItem(II_WEA_YOY_LEAGENDG, 4500000, 0, 1);
+	DropItem(II_PET_EGG, 3000000000, 0, 1);
 
 
 	m_nAttackFirstRange = 8;
@@ -23937,7 +23970,7 @@ MI_MAULMOUSE03
 
 MI_MAULMOUSE04
 {
-	Maxitem = 1;
+	Maxitem = 2;
 	DropGold(700, 1100);
 
 	DropItem(II_WEA_SWO_LEAGENDG, 4500000, 0, 1);
@@ -23950,6 +23983,7 @@ MI_MAULMOUSE04
 	DropItem(II_WEA_STA_LEAGENDG, 4500000, 0, 1);
 	DropItem(II_WEA_BOW_LEAGENDG, 4500000, 0, 1);
 	DropItem(II_WEA_YOY_LEAGENDG, 4500000, 0, 1);
+	DropItem(II_PET_EGG, 3000000000, 0, 1);
 
 
 	m_nAttackFirstRange = 8;
@@ -24228,7 +24262,7 @@ MI_PRICKANT03_1
 
 MI_PRICKANT04_1
 {
-	Maxitem = 1;
+	Maxitem = 2;
 	DropGold(700, 1100);
 
 	DropItem(II_WEA_SWO_LEAGENDG, 4500000, 0, 1);
@@ -24241,6 +24275,7 @@ MI_PRICKANT04_1
 	DropItem(II_WEA_STA_LEAGENDG, 4500000, 0, 1);
 	DropItem(II_WEA_BOW_LEAGENDG, 4500000, 0, 1);
 	DropItem(II_WEA_YOY_LEAGENDG, 4500000, 0, 1);
+	DropItem(II_PET_EGG, 3000000000, 0, 1);
 
 
 
@@ -24396,7 +24431,7 @@ MI_CRIPESCENTIPEDE03_1
 
 MI_CRIPESCENTIPEDE04_1
 {
-	Maxitem = 1;
+	Maxitem = 2;
 	DropGold(700, 1100);
 
 	DropItem(II_WEA_SWO_LEAGENDG, 4500000, 0, 1);
@@ -24409,6 +24444,7 @@ MI_CRIPESCENTIPEDE04_1
 	DropItem(II_WEA_STA_LEAGENDG, 4500000, 0, 1);
 	DropItem(II_WEA_BOW_LEAGENDG, 4500000, 0, 1);
 	DropItem(II_WEA_YOY_LEAGENDG, 4500000, 0, 1);
+	DropItem(II_PET_EGG, 3000000000, 0, 1);
 
 
 	m_nAttackFirstRange = 8;
@@ -24563,7 +24599,7 @@ MI_MAULMOUSE03_1
 
 MI_MAULMOUSE04_1
 {
-	Maxitem = 1;
+	Maxitem = 2;
 	DropGold(700, 1100);
 
 	DropItem(II_WEA_SWO_LEAGENDG, 4500000, 0, 1);
@@ -24576,6 +24612,7 @@ MI_MAULMOUSE04_1
 	DropItem(II_WEA_STA_LEAGENDG, 4500000, 0, 1);
 	DropItem(II_WEA_BOW_LEAGENDG, 4500000, 0, 1);
 	DropItem(II_WEA_YOY_LEAGENDG, 4500000, 0, 1);
+	DropItem(II_PET_EGG, 3000000000, 0, 1);
 
 
 	m_nAttackFirstRange = 8;
