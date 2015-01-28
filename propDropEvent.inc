@@ -172,12 +172,12 @@ DropItem(II_GEN_MAT_ELE_BREEZEATKB,      240000, 0, -1, 20, 160 );	//윈드 카드(B
 DropItem(II_GEN_MAT_ELE_SPARKATKB,       240000, 0, -1, 20, 160 );	//일랙트릭 카드(B)
 DropItem(II_GEN_MAT_ELE_SANDATKB,        240000, 0, -1, 20, 160 );	//랜드 카드(B)
 
-DropItem(II_PET_EGG,  300000, 0, -1, 21, 40);  // 알
-DropItem(II_PET_EGG,  750000, 0, -1, 41, 60);
-DropItem(II_PET_EGG, 1500000, 0, -1, 61, 80);
-DropItem(II_PET_EGG, 3000000, 0, -1, 81, 100);
-DropItem(II_PET_EGG, 4500000, 0, -1, 101,130);
-DropItem(II_PET_EGG, 6750000, 0, -1, 131,160);
+//DropItem(II_PET_EGG,  300000, 0, -1, 21, 40);  // 알
+//DropItem(II_PET_EGG,  750000, 0, -1, 41, 60);
+//DropItem(II_PET_EGG, 1500000, 0, -1, 61, 80);
+//DropItem(II_PET_EGG, 3000000, 0, -1, 81, 100);
+//DropItem(II_PET_EGG, 4500000, 0, -1, 101,130);
+//DropItem(II_PET_EGG, 6750000, 0, -1, 131,160);
 
 DropItem(II_GEN_MAT_ORICHALCUM01,  300000, 0, -1, 21, 40);
 DropItem(II_GEN_MAT_ORICHALCUM01,  750000, 0, -1, 41, 60);
