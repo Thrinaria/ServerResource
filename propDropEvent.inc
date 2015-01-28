@@ -1,4 +1,4 @@
-/*
+
 // 1차 고유 무기
 DropItem(II_WEA_SWO_BOBOKU, 100000, 0, -1,  10, 20);	// 5
 DropItem(II_WEA_AXE_LUDA, 100000, 0, -1,  10, 20);
@@ -155,17 +155,17 @@ DropItem(II_GEN_MAT_ELE_RIVER, 		4125000, 0, -1, 20, 160 ); 	//속성 카드3
 DropItem(II_GEN_MAT_ELE_CYCLON, 	4125000, 0, -1, 20, 160 ); 	//속성 카드3 
 DropItem(II_GEN_MAT_ELE_DESERT, 	4125000, 0, -1, 20, 160 ); 	//속성 카드3 
 
-DropItem(II_GEN_MAT_ELE_VOLCANO3,	 800000, 0, -1, 20, 160 ); 	//HP3%
+//DropItem(II_GEN_MAT_ELE_VOLCANO3,	 800000, 0, -1, 20, 160 ); 	//HP3%
 DropItem(II_GEN_MAT_ELE_MAGMA,		 120000, 0, -1, 20, 160 ); 	//HP4% 
-DropItem(II_GEN_MAT_ELE_OCEAN3,		 800000, 0, -1, 20, 160 ); 	//MP3%
+//DropItem(II_GEN_MAT_ELE_OCEAN3,		 800000, 0, -1, 20, 160 ); 	//MP3%
 DropItem(II_GEN_MAT_ELE_FLOOD,		 120000, 0, -1, 20, 160 ); 	//MP4%
-DropItem(II_GEN_MAT_ELE_LIGHTING3,	 800000, 0, -1, 20, 160 ); 	//공격력3%
+//DropItem(II_GEN_MAT_ELE_LIGHTING3,	 800000, 0, -1, 20, 160 ); 	//공격력3%
 DropItem(II_GEN_MAT_ELE_THUNDER,	 120000, 0, -1, 20, 160 ); 	//공격력4%
-DropItem(II_GEN_MAT_ELE_SAND,		2000000, 0, -1, 20, 160 ); 	//방어력2%
-DropItem(II_GEN_MAT_ELE_EARTHQUAKE3,	 800000, 0, -1, 20, 160 ); 	//방어력3%
+//DropItem(II_GEN_MAT_ELE_SAND,		2000000, 0, -1, 20, 160 ); 	//방어력2%
+//DropItem(II_GEN_MAT_ELE_EARTHQUAKE3,	 800000, 0, -1, 20, 160 ); 	//방어력3%
 DropItem(II_GEN_MAT_ELE_MOUNTAIN,	 120000, 0, -1, 20, 160 ); 	//방어력4%
-DropItem(II_GEN_MAT_ELE_VACCUM3,	 800000, 0, -1, 20, 160 ); 	//FP3%
-DropItem(II_GEN_MAT_ELE_STORM,		 120000, 0, -1, 20, 160 ); 	//FP4%	
+//DropItem(II_GEN_MAT_ELE_VACCUM3,	 800000, 0, -1, 20, 160 ); 	//FP3%
+//DropItem(II_GEN_MAT_ELE_STORM,		 120000, 0, -1, 20, 160 ); 	//FP4%	
 DropItem(II_GEN_MAT_ELE_CANDLEB,         240000, 0, -1, 20, 160 );	//파이어 카드(B)
 DropItem(II_GEN_MAT_ELE_RAINATKB,        240000, 0, -1, 20, 160 );	//워터 카드(B)
 DropItem(II_GEN_MAT_ELE_BREEZEATKB,      240000, 0, -1, 20, 160 );	//윈드 카드(B)
@@ -177,7 +177,7 @@ DropItem(II_GEN_MAT_ELE_SANDATKB,        240000, 0, -1, 20, 160 );	//랜드 카드(B
 //DropItem(II_PET_EGG, 1500000, 0, -1, 61, 80);
 //DropItem(II_PET_EGG, 3000000, 0, -1, 81, 100);
 //DropItem(II_PET_EGG, 4500000, 0, -1, 101,130);
-//DropItem(II_PET_EGG, 6750000, 0, -1, 131,160);
+DropItem(II_PET_EGG, 6750000, 0, -1, 131,160);
 
 DropItem(II_GEN_MAT_ORICHALCUM01,  300000, 0, -1, 21, 40);
 DropItem(II_GEN_MAT_ORICHALCUM01,  750000, 0, -1, 41, 60);
@@ -777,4 +777,3 @@ DropItem(II_WEA_BOW_SEVOY,		30000, 0, -1, 85, 130);
 
 
 //====================== PIERCING_CARD_ITEM End ======================
-*/
