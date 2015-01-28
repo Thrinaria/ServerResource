@@ -1,4 +1,4 @@
-
+/*
 // 1차 고유 무기
 DropItem(II_WEA_SWO_BOBOKU, 100000, 0, -1,  10, 20);	// 5
 DropItem(II_WEA_AXE_LUDA, 100000, 0, -1,  10, 20);
@@ -777,3 +777,4 @@ DropItem(II_WEA_BOW_SEVOY,		30000, 0, -1, 85, 130);
 
 
 //====================== PIERCING_CARD_ITEM End ======================
+*/
