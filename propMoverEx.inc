@@ -18213,7 +18213,7 @@ MI_IBLBOXTER
         DropItem(II_WEA_STA_IBLLINESS, 500000, 0, 1);
         DropItem(II_WEA_BOW_IBLLINESS, 500000, 0, 1);
         DropItem(II_WEA_YOY_IBLLINESS, 500000, 0, 1);
-        DropItem(II_ARM_ARM_SHI_CONTRA, 500000, 0, 1);
+        DropItem(II_ARM_ARM_SHI_CONTRA, 300000, 0, 1);
 
         DropItem(II_GEN_MAT_ELE_SAND, 3000000, 0, 1);                  //      쌘드 카드
 	DropItem(II_GEN_MAT_ELE_FLAME, 3000000, 0, 1);		        //	토치 카드
@@ -18490,7 +18490,7 @@ MI_IBLLINESS
         DropItem(II_WEA_STA_IBLLINESS, 8000000, 0, 1);
         DropItem(II_WEA_BOW_IBLLINESS, 8000000, 0, 1);
         DropItem(II_WEA_YOY_IBLLINESS, 8000000, 0, 1);
-        DropItem(II_ARM_ARM_SHI_CONTRA, 8000000, 0, 1);
+        DropItem(II_ARM_ARM_SHI_CONTRA, 300000, 0, 1);
 
 	DropItem(II_GEN_MAT_ORICHALCUM01, 14500000, 0, 1);
 	DropItem(II_GEN_MAT_MOONSTONE, 2800000, 0, 1);
