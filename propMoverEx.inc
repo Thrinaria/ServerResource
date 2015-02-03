@@ -83,7 +83,7 @@ AI
 MI_AIBATT1
 {
 	Maxitem = 2;
-	DropGold(6, 9);
+	DropGold(90, 100);
 
 	DropItem(II_GEN_GEM_GEM_TWINKLESTONE, 300000000, 0, 1);
 
@@ -111,7 +111,7 @@ MI_AIBATT1
 MI_AIBATT2
 {
 	Maxitem = 2;
-	DropGold(6, 9);
+	DropGold(90, 100);
 	
 
 	DropItem(II_GEN_GEM_GEM_TWINKLESTONE, 200000000, 0, 1);
@@ -138,7 +138,7 @@ MI_AIBATT2
 MI_AIBATT3
 {
 	Maxitem = 2;
-	DropGold(8, 11);
+	DropGold(90, 100);
 	
 	DropItem(II_GEN_GEM_GEM_TWINKLESTONE, 200000000, 0, 1);
 
@@ -164,7 +164,7 @@ MI_AIBATT3
 MI_AIBATT4
 {
 	Maxitem = 5;
-	DropGold(78, 113);
+	DropGold(180, 200);
 	DropKind(IK3_SWD, 1, 6);
 	DropKind(IK3_HELMET, 1, 6);
 	DropKind(IK3_SUIT, 1, 6);
@@ -213,7 +213,7 @@ MI_AIBATT4
 MI_MUSHPANG1
 {
 	Maxitem = 2;
-	DropGold(9, 13);
+	DropGold(100, 120);
 
 	DropItem(II_GEN_GEM_GEM_FORFORM, 300000000, 0, 1);
 	DropItem(II_GEN_FOO_INS_LOLLIPOP, 1000000001, 0, 1);
@@ -241,7 +241,7 @@ MI_MUSHPANG1
 MI_MUSHPANG2
 {
 	Maxitem = 2;
-	DropGold(9, 13);
+	DropGold(100, 120);
 
 	DropItem(II_GEN_GEM_GEM_FORFORM, 200000000, 0, 1);
 	
@@ -267,7 +267,7 @@ MI_MUSHPANG2
 MI_MUSHPANG3
 {
 	Maxitem = 2;
-	DropGold(10, 15);
+	DropGold(100, 120);
 
 	DropItem(II_GEN_GEM_GEM_FORFORM, 200000000, 0, 1);
 
@@ -292,7 +292,7 @@ MI_MUSHPANG3
 MI_MUSHPANG4 
 {
 	Maxitem = 5;
-	DropGold(100, 146);
+	DropGold(200, 240);
 	DropKind(IK3_SWD, 3, 8);
 	DropKind(IK3_HELMET, 3, 8);
 	DropKind(IK3_SUIT, 3, 8);
@@ -341,7 +341,7 @@ MI_MUSHPANG4
 MI_BURUDENG1
 {
 	Maxitem = 2;
-	DropGold(11, 16);
+	DropGold(110, 130);
 	DropKind(IK3_SWD, 1, 3);
 	DropKind(IK3_SUIT, 1, 3);
 	DropKind(IK3_GAUNTLET, 1, 3);
@@ -371,7 +371,7 @@ MI_BURUDENG1
 MI_BURUDENG2
 {
 	Maxitem = 2;
-	DropGold(11, 16);
+	DropGold(110, 130);
 	DropKind(IK3_SWD, 1, 3);
 	DropKind(IK3_SUIT, 1, 3);
 	DropKind(IK3_GAUNTLET, 1, 3);
@@ -401,7 +401,7 @@ MI_BURUDENG2
 MI_BURUDENG3
 {
 	Maxitem = 2;
-	DropGold(12, 18);
+	DropGold(110, 130);
 	DropKind(IK3_SWD, 2, 5);
 	DropKind(IK3_SUIT, 2, 5);
 	DropKind(IK3_GAUNTLET, 2, 5);
@@ -430,7 +430,7 @@ MI_BURUDENG3
 MI_BURUDENG4
 {
 	Maxitem = 5;
-	DropGold(123, 178);
+	DropGold(220, 260);
 	DropKind(IK3_SWD, 5, 10);
 	DropKind(IK3_HELMET, 5, 10);
 	DropKind(IK3_SUIT, 5, 10);
@@ -471,7 +471,7 @@ MI_BURUDENG4
 MI_PUKEPUKE1
 {
 	Maxitem = 2;
-	DropGold(14, 20);
+	DropGold(120, 150);
 	DropKind(IK3_SWD, 3, 6);
 	DropKind(IK3_AXE, 3, 6);
 	DropKind(IK3_SUIT, 3, 6);
@@ -505,7 +505,7 @@ MI_PUKEPUKE1
 MI_PUKEPUKE2
 {
 	Maxitem = 2;
-	DropGold(14, 20);
+	DropGold(120, 150);
 	DropKind(IK3_SWD, 3, 6);
 	DropKind(IK3_AXE, 3, 6);
 	DropKind(IK3_SUIT, 3, 6);
@@ -539,7 +539,7 @@ MI_PUKEPUKE2
 MI_PUKEPUKE3
 {
 	Maxitem = 2;
-	DropGold(16, 23);
+	DropGold(120, 150);
 	DropKind(IK3_SWD, 4, 7);
 	DropKind(IK3_AXE, 4, 7);
 	DropKind(IK3_SUIT, 4, 7);
@@ -574,7 +574,7 @@ MI_PUKEPUKE3
 MI_PUKEPUKE4
 {
 	Maxitem = 5;
-	DropGold(145, 211);
+	DropGold(240, 500);
 	DropItem(II_ARM_ARM_SHI_LIGHT, 30000000, 0, 1);
 	DropItem(II_GEN_JEW_NEC_FPNECKLACE, 30000000, 1, 1);
 
@@ -624,7 +624,7 @@ MI_PUKEPUKE4
 MI_PEAKYTURTLE1
 {
 	Maxitem = 2;
-	DropGold(16, 23);
+	DropGold(130, 170);
 	DropKind(IK3_SWD, 4, 7);
 	DropKind(IK3_AXE, 4, 7);
 	DropKind(IK3_SUIT, 4, 7);
@@ -657,7 +657,7 @@ MI_PEAKYTURTLE1
 MI_PEAKYTURTLE2
 {
 	Maxitem = 2;
-	DropGold(16, 23);
+	DropGold(130, 170);
 	DropKind(IK3_SWD, 6, 9);
 	DropKind(IK3_AXE, 6, 9);
 	DropKind(IK3_SUIT, 6, 9);
@@ -689,7 +689,7 @@ MI_PEAKYTURTLE2
 MI_PEAKYTURTLE3
 {
 	Maxitem = 2;
-	DropGold(17, 25);
+	DropGold(130, 170);
 
 	DropKind(IK3_SWD, 6, 10);
 	DropKind(IK3_AXE, 6, 10);
@@ -722,7 +722,7 @@ MI_PEAKYTURTLE3
 MI_PEAKYTURTLE4
 {
 	Maxitem = 5;
-	DropGold(156, 227);
+	DropGold(260, 340);
 	DropItem(II_GEN_JEW_NEC_HPNECKLACE, 30000000, 0, 1);
 	DropItem(II_GEN_JEW_NEC_MPNECKLACE, 30000000, 0, 1);
 
@@ -772,7 +772,7 @@ MI_PEAKYTURTLE4
 MI_DEMIAN1
 {
 	Maxitem = 2;
-	DropGold(17, 25);
+	DropGold(140, 180);
 	DropKind(IK3_SWD, 7, 11);
 	DropKind(IK3_AXE, 7, 11);
 	DropKind(IK3_SUIT, 7, 11);
@@ -807,7 +807,7 @@ MI_DEMIAN1
 MI_DEMIAN2
 {
 	Maxitem = 2;
-	DropGold(17, 25);
+	DropGold(140, 180);
 	DropKind(IK3_SWD, 7, 11);
 	DropKind(IK3_AXE, 7, 11);
 	DropKind(IK3_HELMET, 1, 5);
@@ -843,7 +843,7 @@ MI_DEMIAN2
 MI_DEMIAN3
 {
 	Maxitem = 2;
-	DropGold(19, 27);
+	DropGold(140, 180);
 	DropKind(IK3_SWD, 7, 11);
 	DropKind(IK3_AXE, 7, 11);
 	DropKind(IK3_HELMET, 1, 5);
@@ -880,7 +880,7 @@ MI_DEMIAN3
 MI_DEMIAN4
 {
 	Maxitem = 5;
-	DropGold(168, 243);
+	DropGold(280, 360);
 	DropKind(IK3_SWD, 7, 14);
 	DropKind(IK3_AXE, 7, 14);
 	DropKind(IK3_HELMET, 7, 14);
@@ -921,7 +921,7 @@ MI_DEMIAN4
 MI_DORIDOMA1
 {
 	Maxitem = 2;
-	DropGold(20, 30);
+	DropGold(150, 190);
 	DropKind(IK3_SWD, 8, 12);
 	DropKind(IK3_AXE, 8, 12);
 	DropKind(IK3_HELMET, 5, 9);
@@ -954,7 +954,7 @@ MI_DORIDOMA1
 MI_DORIDOMA2
 {
 	Maxitem = 2;
-	DropGold(20, 30);
+	DropGold(150, 190);
 	DropKind(IK3_SWD, 8, 12);
 	DropKind(IK3_AXE, 8, 12);
 	DropKind(IK3_HELMET, 5, 9);
@@ -987,7 +987,7 @@ MI_DORIDOMA2
 MI_DORIDOMA3
 {
 	Maxitem = 2;
-	DropGold(22, 32);
+	DropGold(150, 190);
 	DropKind(IK3_SWD, 8, 12);
 	DropKind(IK3_AXE, 8, 12);
 	DropKind(IK3_HELMET, 5, 9);
@@ -1020,7 +1020,7 @@ MI_DORIDOMA3
 MI_DORIDOMA4
 {
 	Maxitem = 5;
-	DropGold(196, 284);
+	DropGold(300, 380);
 
 	DropItem(II_GEN_JEW_RIN_STRRING, 30000000, 0, 1);
 	DropItem(II_GEN_JEW_RIN_INTRING, 30000000, 0, 1);
@@ -1075,7 +1075,7 @@ MI_DORIDOMA4
 MI_LAWOLF1
 {
 	Maxitem = 2;
-	DropGold(24, 34);
+	DropGold(160, 200);
 	DropKind(IK3_SWD, 11, 15);
 	DropKind(IK3_AXE, 11, 15);
 	DropKind(IK3_HELMET, 11, 15);
@@ -1108,7 +1108,7 @@ MI_LAWOLF1
 MI_LAWOLF2
 {
 	Maxitem = 2;
-	DropGold(24, 34);
+	DropGold(160, 200);
 	DropKind(IK3_SWD, 11, 15);
 	DropKind(IK3_AXE, 11, 15);
 	DropKind(IK3_CHEERSTICK, 11, 15);
@@ -1145,7 +1145,7 @@ MI_LAWOLF2
 MI_LAWOLF3
 {
 	Maxitem = 2;
-	DropGold(26, 38);
+	DropGold(160, 200);
 	DropKind(IK3_SWD, 11, 15);
 	DropKind(IK3_AXE, 11, 15);
 	DropKind(IK3_CHEERSTICK, 11, 15);
@@ -1183,7 +1183,7 @@ MI_LAWOLF3
 MI_LAWOLF4
 {
 	Maxitem = 5;
-	DropGold(201, 292);
+	DropGold(340, 400);
 
 	DropItem(II_GEN_JEW_NEC_HPNECKLACE, 20000000, 1, 1);
 	DropItem(II_GEN_JEW_NEC_MPNECKLACE, 20000000, 3, 1);
@@ -1250,7 +1250,7 @@ MI_LAWOLF4
 MI_FEFERN1
 {
 	Maxitem = 2;
-	DropGold(28, 40);
+	DropGold(170, 210);
 	DropKind(IK3_SWD, 13, 17);
 	DropKind(IK3_AXE, 13, 17);
 	DropKind(IK3_CHEERSTICK, 13, 17);
@@ -1289,7 +1289,7 @@ MI_FEFERN1
 MI_FEFERN2
 {
 	Maxitem = 2;
-	DropGold(28, 40);
+	DropGold(170, 210);
 	DropKind(IK3_SWD, 13, 17);
 	DropKind(IK3_AXE, 13, 17);
 	DropKind(IK3_CHEERSTICK, 13, 17);
@@ -1328,7 +1328,7 @@ MI_FEFERN2
 MI_FEFERN3
 {
 	Maxitem = 2;
-	DropGold(28, 40);
+	DropGold(170, 210);
 	DropKind(IK3_SWD, 13, 17);
 	DropKind(IK3_AXE, 13, 17);
 	DropKind(IK3_CHEERSTICK, 13, 17);
@@ -1367,7 +1367,7 @@ MI_FEFERN3
 MI_FEFERN4
 {
 	Maxitem = 5;
-	DropGold(207, 300);
+	DropGold(340, 420);
 
 	DropItem(II_GEN_JEW_NEC_HPNECKLACE, 20000000, 1, 1);
 	DropItem(II_GEN_JEW_NEC_MPNECKLACE, 20000000, 3, 1);
@@ -1432,7 +1432,7 @@ MI_FEFERN4
 MI_NYANGNYANG1
 {
 	Maxitem = 2;
-	DropGold(28, 41);
+	DropGold(180, 220);
 	DropKind(IK3_SWD, 15, 19);
 	DropKind(IK3_AXE, 15, 19);
 	DropKind(IK3_CHEERSTICK, 15, 19);
@@ -1472,7 +1472,7 @@ MI_NYANGNYANG1
 MI_NYANGNYANG2
 {
 	Maxitem = 2;
-	DropGold(28, 41);
+	DropGold(180, 220);
 	DropKind(IK3_SWD, 15, 19);
 	DropKind(IK3_AXE, 15, 19);
 	DropKind(IK3_CHEERSTICK, 15, 19);
@@ -1515,7 +1515,7 @@ MI_NYANGNYANG2
 MI_NYANGNYANG3
 {
 	Maxitem = 2;
-	DropGold(28, 41);
+	DropGold(180, 220);
 //	DropItem(II_ARM_ARM_SHI_FURY, 83320, 0, 1);   // world drop으로 바꿈
 	DropKind(IK3_SWD, 15, 19);
 	DropKind(IK3_AXE, 15, 19);
@@ -1557,7 +1557,7 @@ MI_NYANGNYANG3
 MI_NYANGNYANG4
 {
 	Maxitem = 3;
-	DropGold(212, 308);
+	DropGold(360, 440);
 	DropItem(II_WEA_SWO_ARKON, 30000000, 0, 1);
 	DropItem(II_WEA_CHEE_GRIM, 30000000, 0, 1);
 	DropItem(II_WEA_WAN_DIA, 30000000, 0, 1);
@@ -1618,7 +1618,7 @@ MI_NYANGNYANG4
 MI_BANG1
 {
 	Maxitem = 2;
-	DropGold(29, 42);
+	DropGold(190, 230);
 	DropKind(IK3_SWD, 17, 21);
 	DropKind(IK3_AXE, 17, 21);
 	DropKind(IK3_CHEERSTICK, 17, 21);
@@ -1658,7 +1658,7 @@ MI_BANG1
 MI_BANG2
 {
 	Maxitem = 2;
-	DropGold(29, 42);
+	DropGold(190, 230);
 	DropKind(IK3_SWD, 17, 21);
 	DropKind(IK3_AXE, 17, 21);
 	DropKind(IK3_CHEERSTICK, 17, 21);
@@ -1698,7 +1698,7 @@ MI_BANG2
 MI_BANG3
 {
 	Maxitem = 2;
-	DropGold(29, 42);
+	DropGold(190, 230);
 	DropKind(IK3_SWD, 17, 21);
 	DropKind(IK3_AXE, 17, 21);
 	DropKind(IK3_CHEERSTICK, 17, 21);
@@ -1739,7 +1739,7 @@ MI_BANG3
 MI_BANG4
 {
 	Maxitem = 5;
-	DropGold(218, 316);
+	DropGold(380, 460);
 	DropItem(II_WEA_SWO_ARKON, 20000000, 0, 1);
 	DropItem(II_WEA_CHEE_GRIM, 20000000, 0, 1);
 	DropItem(II_WEA_WAN_DIA, 20000000, 0, 1);
@@ -1805,7 +1805,7 @@ MI_BANG4
 MI_WAGSAAC1
 {
 	Maxitem = 2;
-	DropGold(30, 44);
+	DropGold(200, 240);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -1845,7 +1845,7 @@ MI_WAGSAAC1
 MI_WAGSAAC2
 {
 	Maxitem = 2;
-	DropGold(30, 44);
+	DropGold(200, 240);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -1884,7 +1884,7 @@ MI_WAGSAAC2
 MI_WAGSAAC3
 {
 	Maxitem = 2;
-	DropGold(30, 44);
+	DropGold(200, 240);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -1925,7 +1925,7 @@ MI_WAGSAAC3
 MI_WAGSAAC4
 {
 	Maxitem = 5;
-	DropGold(224, 324);
+	DropGold(400, 480);
 
 	DropKind(IK3_SWD, 19, 26);
 	DropKind(IK3_AXE, 19, 26);
@@ -1976,7 +1976,7 @@ MI_WAGSAAC4
 MI_MIA1
 {
 	Maxitem = 2;
-	DropGold(31, 45);
+	DropGold(210, 250);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -2015,7 +2015,7 @@ MI_MIA1
 MI_MIA2
 {
 	Maxitem = 2;
-	DropGold(31, 45);
+	DropGold(210, 250);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -2054,7 +2054,7 @@ MI_MIA2
 MI_MIA3
 {
 	Maxitem = 2;
-	DropGold(32, 46);
+	DropGold(210, 250);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -2094,7 +2094,7 @@ MI_MIA3
 MI_MIA4
 {
 	Maxitem = 5;
-	DropGold(229, 332);
+	DropGold(420, 500);
 
 	DropItem(II_GEN_JEW_NEC_MPNECKLACE, 30000000, 7, 1);
 	DropItem(II_GEN_JEW_NEC_FPNECKLACE, 30000000, 7, 1);
@@ -2359,7 +2359,7 @@ MI_NFZOMBIE
 MI_MRPUMPKIN1
 {
 	Maxitem = 2;
-	DropGold(32, 46);
+	DropGold(220, 260);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -2398,7 +2398,7 @@ MI_MRPUMPKIN1
 MI_MRPUMPKIN2
 {
 	Maxitem = 2;
-	DropGold(32, 46);
+	DropGold(220, 260);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -2438,7 +2438,7 @@ MI_MRPUMPKIN2
 MI_MRPUMPKIN3
 {
 	Maxitem = 2;
-	DropGold(32, 47);
+	DropGold(220, 260);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -2478,7 +2478,7 @@ MI_MRPUMPKIN3
 MI_MRPUMPKIN4
 {
 	Maxitem = 5;
-	DropGold(240, 349);
+	DropGold(440, 520);
 	DropKind(IK3_SWD, 23, 30);
 	DropKind(IK3_AXE, 23, 30);
 	DropKind(IK3_CHEERSTICK, 23, 30);
@@ -2532,7 +2532,7 @@ MI_MRPUMPKIN4
 MI_REDMANTIS1
 {
 	Maxitem = 2;
-	DropGold(32, 47);
+	DropGold(230, 270);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -2571,7 +2571,7 @@ MI_REDMANTIS1
 MI_REDMANTIS2
 {
 	Maxitem = 2;
-	DropGold(32, 47);
+	DropGold(230, 270);
 //	DropItem(II_ARM_ARM_SHI_HEAVY, 83320, 0, 1);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
@@ -2611,7 +2611,7 @@ MI_REDMANTIS2
 MI_REDMANTIS3
 {
 	Maxitem = 2;
-	DropGold(33, 48);
+	DropGold(230, 270);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -2650,7 +2650,7 @@ MI_REDMANTIS3
 MI_REDMANTIS4
 {
 	Maxitem = 5;
-	DropGold(246, 357);
+	DropGold(460, 540);
 
 	DropKind(IK3_SWD, 25, 32);
 	DropKind(IK3_AXE, 25, 32);
@@ -2705,7 +2705,7 @@ MI_REDMANTIS4
 MI_JACKTHEHAMMER1
 {
 	Maxitem = 2;
-	DropGold(34, 49);
+	DropGold(240, 280);
 
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
@@ -2746,7 +2746,7 @@ MI_JACKTHEHAMMER1
 MI_JACKTHEHAMMER2
 {
 	Maxitem = 2;
-	DropGold(34, 49);
+	DropGold(240, 280);
 
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
@@ -2792,7 +2792,7 @@ MI_JACKTHEHAMMER2
 MI_JACKTHEHAMMER3
 {
 	Maxitem = 2;
-	DropGold(34, 49);
+	DropGold(240, 280);
 
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
@@ -2839,7 +2839,7 @@ MI_JACKTHEHAMMER3
 MI_JACKTHEHAMMER4
 {
 	Maxitem = 5;
-	DropGold(252, 365);
+	DropGold(480, 560);
 
 	DropItem(II_GEN_JEW_NEC_HPNECKLACE, 30000000, 4, 1);
 	DropItem(II_GEN_JEW_RIN_DEXRING,    30000000, 2, 1);
@@ -2903,7 +2903,7 @@ MI_JACKTHEHAMMER4
 MI_GIGGLEBOX1
 {
 	Maxitem = 2;
-	DropGold(35, 51);
+	DropGold(250, 290);
 
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
@@ -2947,7 +2947,7 @@ MI_GIGGLEBOX1
 MI_GIGGLEBOX2
 {
 	Maxitem = 2;
-	DropGold(35, 51);
+	DropGold(250, 290);
 
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
@@ -2991,7 +2991,7 @@ MI_GIGGLEBOX2
 MI_GIGGLEBOX3
 {
 	Maxitem = 2;
-	DropGold(36, 52);
+	DropGold(250, 290);
 
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
@@ -3039,7 +3039,7 @@ MI_GIGGLEBOX3
 MI_GIGGLEBOX4
 {
 	Maxitem = 4;
-	DropGold(263, 381);
+	DropGold(500, 580);
 
 	DropItem(II_GEN_JEW_RIN_STRRING, 30000000, 3, 1);
 	DropItem(II_GEN_JEW_RIN_INTRING, 30000000, 3, 1);
@@ -3100,7 +3100,7 @@ MI_GIGGLEBOX4
 MI_ROCKMUSCLE1
 {
 	Maxitem = 2;
-	DropGold(36, 52);
+	DropGold(260, 300);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -3143,7 +3143,7 @@ MI_ROCKMUSCLE1
 MI_ROCKMUSCLE2
 {
 	Maxitem = 2;
-	DropGold(36, 52);
+	DropGold(260, 300);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -3185,7 +3185,7 @@ MI_ROCKMUSCLE2
 MI_ROCKMUSCLE3
 {
 	Maxitem = 2;
-	DropGold(36, 53);
+	DropGold(260, 300);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -3229,7 +3229,7 @@ MI_ROCKMUSCLE3
 MI_ROCKMUSCLE4
 {
 	Maxitem = 5;
-	DropGold(268, 389);
+	DropGold(520, 600);
 
 	DropItem(II_GEN_JEW_NEC_MPNECKLACE, 30000000, 11, 1);
 	DropItem(II_GEN_JEW_NEC_FPNECKLACE, 30000000, 11, 1);
@@ -3463,7 +3463,7 @@ MI_BIGMUSCLE
 MI_HOBO1
 {
 	Maxitem = 2;
-	DropGold(37, 54);
+	DropGold(270, 310);
 
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
@@ -3508,7 +3508,7 @@ MI_HOBO1
 MI_HOBO2
 {
 	Maxitem = 2;
-	DropGold(37, 54);
+	DropGold(270, 310);
 
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
@@ -3553,7 +3553,7 @@ MI_HOBO2
 MI_HOBO3
 {
 	Maxitem = 2;
-	DropGold(37, 54);
+	DropGold(270, 310);
 
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
@@ -3598,7 +3598,7 @@ MI_HOBO3
 MI_HOBO4
 {
 	Maxitem = 5;
-	DropGold(280, 406);
+	DropGold(540, 620);
 
 	DropKind(IK3_SWD, 33, 40);
 	DropKind(IK3_AXE, 33, 40);
@@ -3658,7 +3658,7 @@ MI_HOBO4
 MI_DUMBBULL1
 {
 	Maxitem = 2;
-	DropGold(38, 55);
+	DropGold(280, 320);
 
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
@@ -3702,7 +3702,7 @@ MI_DUMBBULL1
 MI_DUMBBULL2
 {
 	Maxitem = 2;
-	DropGold(38, 55);
+	DropGold(280, 320);
 
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
@@ -3747,7 +3747,7 @@ MI_DUMBBULL2
 MI_DUMBBULL3
 {
 	Maxitem = 2;
-	DropGold(39, 56);
+	DropGold(280, 320);
 
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
@@ -3792,7 +3792,7 @@ MI_DUMBBULL3
 MI_DUMBBULL4
 {
 	Maxitem = 5;
-	DropGold(285, 414);
+	DropGold(560, 640);
 
 	DropKind(IK3_SWD, 35, 42);
 	DropKind(IK3_AXE, 35, 42);
@@ -3850,7 +3850,7 @@ MI_DUMBBULL4
 MI_TOTEMIA1
 {
 	Maxitem = 2;
-	DropGold(40, 58);
+	DropGold(290, 330);
 
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
@@ -3895,7 +3895,7 @@ MI_TOTEMIA1
 MI_TOTEMIA2
 {
 	Maxitem = 2;
-	DropGold(40, 58);
+	DropGold(290, 330);
 
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
@@ -3940,7 +3940,7 @@ MI_TOTEMIA2
 MI_TOTEMIA3
 {
 	Maxitem = 2;
-	DropGold(40, 58);
+	DropGold(290, 330);
 
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
@@ -3985,7 +3985,7 @@ MI_TOTEMIA3
 MI_TOTEMIA4
 {
 	Maxitem = 4;
-	DropGold(296, 430);
+	DropGold(580, 660);
 
 	DropItem(II_GEN_JEW_RIN_DEXRING, 30000000, 3, 1);
 	DropItem(II_GEN_JEW_RIN_STARING, 30000000, 3, 1);
@@ -4053,7 +4053,7 @@ MI_TOTEMIA4
 MI_CARDPUPPET1
 {
 	Maxitem = 2;
-	DropGold(40, 59);
+	DropGold(300, 340);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -4096,7 +4096,7 @@ MI_CARDPUPPET1
 MI_CARDPUPPET2
 {
 	Maxitem = 2;
-	DropGold(40, 59);
+	DropGold(300, 340);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -4141,7 +4141,7 @@ MI_CARDPUPPET2
 MI_CARDPUPPET3
 {
 	Maxitem = 2;
-	DropGold(41, 60);
+	DropGold(300, 340);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -4186,7 +4186,7 @@ MI_CARDPUPPET3
 MI_CARDPUPPET4
 {
 	Maxitem = 5;
-	DropGold(302, 438);
+	DropGold(600, 680);
 	DropItem(II_GEN_JEW_RIN_STRRING, 30000000, 3, 1);
 	DropItem(II_GEN_JEW_RIN_INTRING, 30000000, 3, 1);
 	
@@ -4352,7 +4352,7 @@ DropGold(229, 332);
 MI_TOMBSTONEBEARER1
 {
 	Maxitem = 2;
-	DropGold(42, 61);
+	DropGold(310, 350);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -4396,7 +4396,7 @@ MI_TOMBSTONEBEARER1
 MI_TOMBSTONEBEARER2
 {
 	Maxitem = 2;
-	DropGold(42, 61);
+	DropGold(310, 350);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -4441,7 +4441,7 @@ MI_TOMBSTONEBEARER2
 MI_TOMBSTONEBEARER3
 {
 	Maxitem = 2;
-	DropGold(42, 61);
+	DropGold(310, 350);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -4481,7 +4481,7 @@ MI_TOMBSTONEBEARER3
 MI_TOMBSTONEBEARER4
 {
 	Maxitem = 5;
-	DropGold(313, 454);
+	DropGold(620, 700);
 
 	DropItem(II_GEN_JEW_NEC_HPNECKLACE, 30000000, 5, 1);
 	DropItem(II_GEN_JEW_NEC_FPNECKLACE, 30000000, 14, 1);
@@ -4545,7 +4545,7 @@ MI_TOMBSTONEBEARER4
 MI_BASQUE1
 {
 	Maxitem = 2;
-	DropGold(43, 62);
+	DropGold(320, 360);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -4589,7 +4589,7 @@ MI_BASQUE1
 MI_BASQUE2
 {
 	Maxitem = 2;
-	DropGold(43, 62);
+	DropGold(320, 360);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -4634,7 +4634,7 @@ MI_BASQUE2
 MI_BASQUE3
 {
 	Maxitem = 2;
-	DropGold(44, 63);
+	DropGold(320, 360);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -4678,7 +4678,7 @@ MI_BASQUE3
 MI_BASQUE4
 {
 	Maxitem = 5;
-	DropGold(324, 470);
+	DropGold(640, 720);
 
 	DropItem(II_WEA_SWO_FLAM,   10000000, 0, 1);
 	DropItem(II_WEA_CHEE_BAREM, 10000000, 0, 1);
@@ -4746,7 +4746,7 @@ MI_BASQUE4
 MI_PRANKSTER1
 {
 	Maxitem = 2;
-	DropGold(44, 64);
+	DropGold(330, 370);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -4791,7 +4791,7 @@ MI_PRANKSTER1
 MI_PRANKSTER2
 {
 	Maxitem = 2;
-	DropGold(44, 64);
+	DropGold(330, 370);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -4836,7 +4836,7 @@ MI_PRANKSTER2
 MI_PRANKSTER3
 {
 	Maxitem = 2;
-	DropGold(45, 66);
+	DropGold(330, 370);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -4880,7 +4880,7 @@ MI_PRANKSTER3
 MI_PRANKSTER4
 {
 	Maxitem = 5;
-	DropGold(330, 479);
+	DropGold(650, 730);
 
 	DropItem(II_WEA_SWO_FLAM,   10000000, 0, 1);
 	DropItem(II_WEA_CHEE_BAREM, 10000000, 0, 1);
@@ -4948,7 +4948,7 @@ MI_PRANKSTER4
 MI_WHEELEM1
 {
 	Maxitem = 2;
-	DropGold(46, 67);
+	DropGold(340, 380);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -4991,7 +4991,7 @@ MI_WHEELEM1
 MI_WHEELEM2
 {
 	Maxitem = 2;
-	DropGold(46, 67);
+	DropGold(340, 380);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -5034,7 +5034,7 @@ MI_WHEELEM2
 MI_WHEELEM3
 {
 	Maxitem = 2;
-	DropGold(46, 67);
+	DropGold(340, 380);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -5079,7 +5079,7 @@ MI_WHEELEM3
 MI_WHEELEM4
 {
 	Maxitem = 5;
-	DropGold(341, 495);
+	DropGold(660, 740);
 
 	DropItem(II_GEN_JEW_RIN_DEXRING, 30000000, 4, 1);
 	DropItem(II_GEN_JEW_RIN_STARING, 30000000, 4, 1);
@@ -5150,7 +5150,7 @@ MI_WHEELEM4
 MI_LEYENA1
 {
 	Maxitem = 2;
-	DropGold(47, 68);
+	DropGold(350, 390);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -5195,7 +5195,7 @@ MI_LEYENA1
 MI_LEYENA2
 {
 	Maxitem = 2;
-	DropGold(47, 68);
+	DropGold(350, 390);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -5240,7 +5240,7 @@ MI_LEYENA2
 MI_LEYENA3
 {
 	Maxitem = 2;
-	DropGold(48, 69);
+	DropGold(350, 390);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -5286,7 +5286,7 @@ MI_LEYENA3
 MI_LEYENA4
 {
 	Maxitem = 5;
-	DropGold(352, 511);
+	DropGold(680, 750);
 
 	DropItem(II_GEN_JEW_RIN_STRRING, 30000000, 4, 1);
 	DropItem(II_GEN_JEW_RIN_INTRING, 30000000, 4, 1);
@@ -5355,7 +5355,7 @@ MI_LEYENA4
 MI_STEAMWALKER1
 {
 	Maxitem = 2;
-	DropGold(48, 70);
+	DropGold(360, 400);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -5400,7 +5400,7 @@ MI_STEAMWALKER1
 MI_STEAMWALKER2
 {
 	Maxitem = 2;
-	DropGold(48, 70);
+	DropGold(360, 400);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -5444,7 +5444,7 @@ MI_STEAMWALKER2
 MI_STEAMWALKER3
 {
 	Maxitem = 2;
-	DropGold(49, 71);
+	DropGold(360, 400);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -5488,7 +5488,7 @@ MI_STEAMWALKER3
 MI_STEAMWALKER4
 {
 	Maxitem = 5;
-	DropGold(364, 527);
+	DropGold(690, 760);
 
 	DropKind(IK3_SWD, 51, 58);
 	DropKind(IK3_AXE, 51, 58);
@@ -5553,7 +5553,7 @@ MI_STEAMWALKER4
 MI_STEELKNIGHT1
 {
 	Maxitem = 2;
-	DropGold(50, 73);
+	DropGold(380, 430);
 
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
@@ -5600,7 +5600,7 @@ MI_STEELKNIGHT1
 MI_STEELKNIGHT2
 {
 	Maxitem = 2;
-	DropGold(50, 73);
+	DropGold(380, 430);
 
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
@@ -5647,7 +5647,7 @@ MI_STEELKNIGHT2
 MI_STEELKNIGHT3
 {
 	Maxitem = 2;
-	DropGold(51, 74);
+	DropGold(380, 430);
 
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
@@ -5694,7 +5694,7 @@ MI_STEELKNIGHT3
 MI_STEELKNIGHT4
 {
 	Maxitem = 4;
-	DropGold(375, 544);
+	DropGold(700, 770);
 
 	DropItem(II_GEN_JEW_NEC_HPNECKLACE, 30000000, 6, 1);
 	DropItem(II_GEN_JEW_NEC_FPNECKLACE, 30000000, 19, 1);
@@ -5762,7 +5762,7 @@ MI_STEELKNIGHT4
 MI_NUTTYWHEEL1
 {
 	Maxitem = 2;
-	DropGold(52, 75);
+	DropGold(390, 450);
 
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
@@ -5810,7 +5810,7 @@ MI_NUTTYWHEEL1
 MI_NUTTYWHEEL2
 {
 	Maxitem = 2;
-	DropGold(52, 75);
+	DropGold(390, 450);
 
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
@@ -5856,7 +5856,7 @@ MI_NUTTYWHEEL2
 MI_NUTTYWHEEL3
 {
 	Maxitem = 2;
-	DropGold(52, 76);
+	DropGold(390, 450);
 
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
@@ -5904,7 +5904,7 @@ MI_NUTTYWHEEL3
 MI_NUTTYWHEEL4
 {
 	Maxitem = 2;
-	DropGold(386, 560);
+	DropGold(710, 780);
 
 	DropItem(II_WEA_SWO_SUHO, 3600000, 0, 1);
 	DropItem(II_WEA_SWT_SUHO, 3600000, 0, 1);
@@ -5945,7 +5945,7 @@ MI_NUTTYWHEEL4
 MI_DRILLER1    // 여기서부터 59레벨임.
 {
 	Maxitem = 2;
-	DropGold(53, 77);
+	DropGold(400, 477);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -5990,7 +5990,7 @@ MI_DRILLER1    // 여기서부터 59레벨임.
 MI_DRILLER2
 {
 	Maxitem = 2;
-	DropGold(53, 77);
+	DropGold(400, 477);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -6036,7 +6036,7 @@ MI_DRILLER2
 MI_DRILLER3
 {
 	Maxitem = 2;
-	DropGold(54, 78);
+	DropGold(400, 470);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -6081,7 +6081,7 @@ MI_DRILLER3
 MI_DRILLER4
 {
 	Maxitem = 2;
-	DropGold(397, 576);
+	DropGold(720, 790);
 
 	DropItem(II_WEA_SWO_SUHO, 3600000, 0, 1);
 	DropItem(II_WEA_SWT_SUHO, 3600000, 0, 1);
@@ -6125,7 +6125,7 @@ MI_DRILLER4
 MI_VOLT1
 {
 	Maxitem = 2;
-	DropGold(55, 80);
+	DropGold(410, 480);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -6171,7 +6171,7 @@ MI_VOLT1
 MI_VOLT2
 {
 	Maxitem = 2;
-	DropGold(55, 80);
+	DropGold(410, 480);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -6215,7 +6215,7 @@ MI_VOLT2
 MI_VOLT3
 {
 	Maxitem = 2;
-	DropGold(56, 81);
+	DropGold(410, 480);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -6260,8 +6260,7 @@ MI_VOLT3
 MI_VOLT4
 {
 	Maxitem = 2;
-	DropGold(408, 592);
-
+	DropGold(730, 800);
 
 	DropItem(II_WEA_SWO_SUHO, 3600000, 0, 1);
 	DropItem(II_WEA_SWT_SUHO, 3600000, 0, 1);
@@ -6305,7 +6304,7 @@ MI_VOLT4
 MI_ELDERGUARD1
 {
 	Maxitem = 2;
-	DropGold(56, 82);
+	DropGold(420, 490);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -6350,7 +6349,7 @@ MI_ELDERGUARD1
 MI_ELDERGUARD2
 {
 	Maxitem = 2;
-	DropGold(56, 82);
+	DropGold(420, 490);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -6396,7 +6395,7 @@ MI_ELDERGUARD2
 MI_ELDERGUARD3
 {
 	Maxitem = 2;
-	DropGold(57, 83);
+	DropGold(410, 500);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -6442,7 +6441,7 @@ MI_ELDERGUARD3
 MI_ELDERGUARD4
 {
 	Maxitem = 2;
-	DropGold(420, 609);
+	DropGold(740, 810);
 
 	DropItem(II_WEA_SWO_SUHO, 3600000, 0, 1);
 	DropItem(II_WEA_SWT_SUHO, 3600000, 0, 1);
@@ -6485,7 +6484,7 @@ MI_ELDERGUARD4
 MI_GARBAGEPIDER1
 {
 	Maxitem = 2;
-	DropGold(250, 350);
+	DropGold(420, 500);
 
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
@@ -6533,7 +6532,7 @@ MI_GARBAGEPIDER1
 MI_GARBAGEPIDER2
 {
 	Maxitem = 2;
-	DropGold(250, 350);
+	DropGold(420, 500);
 
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
@@ -6580,7 +6579,7 @@ MI_GARBAGEPIDER2
 MI_GARBAGEPIDER3
 {
 	Maxitem = 2;
-	DropGold(250, 350);
+	DropGold(420, 600);
 
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
@@ -6626,7 +6625,7 @@ MI_GARBAGEPIDER3
 MI_GARBAGEPIDER4
 {
 	Maxitem = 2;
-	DropGold(436, 633);
+	DropGold(760, 830);
 
 	DropItem(II_WEA_SWO_SUHO, 3600000, 0, 1);
 	DropItem(II_WEA_SWT_SUHO, 3600000, 0, 1);
@@ -6666,7 +6665,7 @@ MI_GARBAGEPIDER4
 MI_CRANEMACHINERY1
 {
 	Maxitem = 2;
-	DropGold(350, 700);
+	DropGold(450, 700);
 
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
@@ -6713,7 +6712,7 @@ MI_CRANEMACHINERY1
 MI_CRANEMACHINERY2
 {
 	Maxitem = 2;
-	DropGold(350, 700);
+	DropGold(450, 700);
 
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
@@ -6760,7 +6759,7 @@ MI_CRANEMACHINERY2
 MI_CRANEMACHINERY3
 {
 	Maxitem = 2;
-	DropGold(350, 700);
+	DropGold(450, 700);
 
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
@@ -6807,7 +6806,7 @@ MI_CRANEMACHINERY3
 MI_CRANEMACHINERY4
 {
 	Maxitem = 2;
-	DropGold(500, 1000);
+	DropGold(780, 850);
 
 	DropItem(II_WEA_SWO_SUHO, 3600000, 0, 1);
 	DropItem(II_WEA_SWT_SUHO, 3600000, 0, 1);
@@ -7244,7 +7243,7 @@ MI_GURUCATCHER
 MI_SYLIACA1
 {
 	Maxitem = 2;
-	DropGold(160, 232);
+	DropGold(470, 720);
 
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
@@ -7292,7 +7291,7 @@ MI_SYLIACA1
 MI_SYLIACA2
 {
 	Maxitem = 2;
-	DropGold(160, 232);
+	DropGold(470, 720);
 
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
@@ -7341,7 +7340,7 @@ MI_SYLIACA2
 MI_SYLIACA3
 {
 	Maxitem = 2;
-	DropGold(160, 232);
+	DropGold(470, 720);
 
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
@@ -7432,7 +7431,7 @@ MI_SYLIACA4
 MI_CIRCUSBEAR1
 {
 	Maxitem = 2;
-	DropGold(184, 268);
+	DropGold(470, 720);
 
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
@@ -7479,7 +7478,7 @@ MI_CIRCUSBEAR1
 MI_CIRCUSBEAR2
 {
 	Maxitem = 2;
-	DropGold(184, 268);
+	DropGold(470, 720);
 
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
@@ -7526,7 +7525,7 @@ MI_CIRCUSBEAR2
 MI_CIRCUSBEAR3
 {
 	Maxitem = 2;
-	DropGold(184, 268);
+	DropGold(470, 720);
 
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
@@ -7573,7 +7572,7 @@ MI_CIRCUSBEAR3
 MI_CIRCUSBEAR4
 {
 	Maxitem = 2;
-	DropGold(184, 268);
+	DropGold(780, 850);
 
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
@@ -7620,7 +7619,7 @@ MI_CIRCUSBEAR4
 MI_GREEMONG1
 {
 	Maxitem = 2;
-	DropGold(184, 268);
+	DropGold(490, 740);
 
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
@@ -7668,7 +7667,7 @@ MI_GREEMONG1
 MI_GREEMONG2
 {
 	Maxitem = 2;
-	DropGold(184, 268);
+	DropGold(490, 740);
 
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
@@ -7716,7 +7715,7 @@ MI_GREEMONG2
 MI_GREEMONG3
 {
 	Maxitem = 2;
-	DropGold(184, 268);
+	DropGold(490, 740);
 
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
@@ -7806,7 +7805,7 @@ MI_GREEMONG4
 MI_PIRE1
 {
 	Maxitem = 2;
-	DropGold(176, 256);
+	DropGold(490, 740);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -7847,7 +7846,7 @@ MI_PIRE1
 MI_PIRE2
 {
 	Maxitem = 2;
-	DropGold(176, 256);
+	DropGold(490, 740);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -7888,7 +7887,7 @@ MI_PIRE2
 MI_PIRE3
 {
 	Maxitem = 2;
-	DropGold(176, 256);
+	DropGold(490, 740);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -7929,7 +7928,7 @@ MI_PIRE3
 MI_PIRE4
 {
 	Maxitem = 2;
-	DropGold(176, 256);
+	DropGold(800, 870);
 	
 	DropItem(II_WEA_SWO_USU, 2700000, 0, 1);
 	DropItem(II_WEA_SWT_USU, 2700000, 0, 1);
@@ -7967,7 +7966,7 @@ MI_PIRE4
 MI_CLAWDOLL1
 {
 	Maxitem = 2;
-	DropGold(176, 256);
+	DropGold(490, 740);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -8008,7 +8007,7 @@ MI_CLAWDOLL1
 MI_CLAWDOLL2
 {
 	Maxitem = 2;
-	DropGold(176, 256);
+	DropGold(490, 740);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -8049,7 +8048,7 @@ MI_CLAWDOLL2
 MI_CLAWDOLL3
 {
 	Maxitem = 2;
-	DropGold(176, 256);
+	DropGold(490, 740);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -8090,7 +8089,7 @@ MI_CLAWDOLL3
 MI_CLAWDOLL4
 {
 	Maxitem = 2;
-	DropGold(176, 256);
+	DropGold(800, 870);
 	
 	DropItem(II_WEA_SWO_USU, 2700000, 0, 1);
 	DropItem(II_WEA_SWT_USU, 2700000, 0, 1);
@@ -8128,7 +8127,7 @@ MI_CLAWDOLL4
 MI_CARRIERBOMB1
 {
 	Maxitem = 2;
-	DropGold(176, 256);
+	DropGold(510, 760);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -8171,7 +8170,7 @@ MI_CARRIERBOMB1
 MI_CARRIERBOMB2
 {
 	Maxitem = 2;
-	DropGold(176, 256);
+	DropGold(510, 760);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -8215,7 +8214,7 @@ MI_CARRIERBOMB2
 MI_CARRIERBOMB3
 {
 	Maxitem = 2;
-	DropGold(180, 264);
+	DropGold(510, 760);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -8261,7 +8260,7 @@ MI_CARRIERBOMB3
 MI_CARRIERBOMB4
 {
 	Maxitem = 2;
-	DropGold(660, 958);
+	DropGold(850, 900);
 
 
 	DropItem(II_WEA_SWO_USU, 2700000, 0, 1);
@@ -8304,7 +8303,7 @@ MI_CARRIERBOMB4
 MI_RAMPAGEBUTCHER1
 {
 	Maxitem = 2;
-	DropGold(180, 264);
+	DropGold(520, 770);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -8345,7 +8344,7 @@ MI_RAMPAGEBUTCHER1
 MI_RAMPAGEBUTCHER2
 {
 	Maxitem = 2;
-	DropGold(180, 264);
+	DropGold(520, 770);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -8386,7 +8385,7 @@ MI_RAMPAGEBUTCHER2
 MI_RAMPAGEBUTCHER3
 {
 	Maxitem = 2;
-	DropGold(180, 264);
+	DropGold(520, 770);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -8427,7 +8426,7 @@ MI_RAMPAGEBUTCHER3
 MI_RAMPAGEBUTCHER4
 {
 	Maxitem = 2;
-	DropGold(180, 264);
+	DropGold(870, 920);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -9003,7 +9002,7 @@ MI_RISEM1
 {
 
 	Maxitem = 2;
-	DropGold(162, 234);
+	DropGold(540, 790);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -9050,7 +9049,7 @@ MI_RISEM1
 MI_RISEM2
 {
 	Maxitem = 2;
-	DropGold(162, 234);
+	DropGold(540, 790);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -9096,7 +9095,7 @@ MI_RISEM2
 MI_RISEM3
 {
 	Maxitem = 2;
-	DropGold(162, 234);
+	DropGold(540, 790);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -9147,7 +9146,7 @@ MI_RISEM4
 {
 
 	Maxitem = 2;
-	DropGold(397, 576);
+	DropGold(890, 940);
 	DropItem(II_WEA_SWO_SUHO, 3600000, 0, 1);
 	DropItem(II_WEA_SWT_SUHO, 3600000, 0, 1);
 	DropItem(II_WEA_AXE_SUHO, 3600000, 0, 1);
@@ -9189,7 +9188,7 @@ MI_RISEM4
 MI_NUCTUVEHICLE1
 {
 	Maxitem = 2;
-	DropGold(156, 228);
+	DropGold(560, 810);
 
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
@@ -9239,7 +9238,7 @@ MI_NUCTUVEHICLE1
 MI_NUCTUVEHICLE2
 {
 	Maxitem = 2;
-	DropGold(156, 228);
+	DropGold(560, 810);
 
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
@@ -9289,7 +9288,7 @@ MI_NUCTUVEHICLE2
 MI_NUCTUVEHICLE3
 {
 	Maxitem = 2;
-	DropGold(156, 228);
+	DropGold(560, 810);
 
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
@@ -9340,7 +9339,7 @@ MI_NUCTUVEHICLE3
 MI_NUCTUVEHICLE4
 {
 	Maxitem = 2;
-	DropGold(386, 560);
+	DropGold(910, 960);
 
 	DropItem(II_WEA_SWO_SUHO, 3600000, 0, 1);
 	DropItem(II_WEA_SWT_SUHO, 3600000, 0, 1);
@@ -9386,7 +9385,7 @@ MI_NUCTUVEHICLE4
 MI_ZOMBIGER1
 {
 	Maxitem = 2;
-	DropGold(126, 182);
+	DropGold(560, 810);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -9433,7 +9432,7 @@ MI_ZOMBIGER2
 {
 
 	Maxitem = 2;
-	DropGold(126, 182);
+	DropGold(560, 810);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -9482,7 +9481,7 @@ MI_ZOMBIGER2
 MI_ZOMBIGER3
 {
 	Maxitem = 2;
-	DropGold(126, 182);
+	DropGold(560, 810);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -9532,7 +9531,7 @@ MI_ZOMBIGER3
 MI_ZOMBIGER4
 {
 	Maxitem = 5;
-	DropGold(313, 454);
+	DropGold(910, 960);
 
 	DropItem(II_GEN_JEW_NEC_FPNECKLACE, 4166000, 14, 1);
 
@@ -9598,7 +9597,7 @@ MI_ZOMBIGER4
 MI_FLYBAT1
 {
 	Maxitem = 4;
-	DropGold(45, 66);
+	DropGold(190, 230);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -9646,7 +9645,7 @@ MI_FLYBAT1
 MI_FLYBAT2
 {
 	Maxitem = 4;
-	DropGold(45, 66);
+	DropGold(190, 230);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -9693,7 +9692,7 @@ MI_FLYBAT2
 MI_FLYBAT3
 {
 	Maxitem = 4;
-	DropGold(45, 66);
+	DropGold(190, 230);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -9740,7 +9739,7 @@ MI_FLYBAT3
 MI_FLYBAT4
 {
 	Maxitem = 8;
-	DropGold(224, 324);
+	DropGold(400, 450);
 	DropItem(II_GEN_JEW_NEC_MPNECKLACE, 4166000, 7, 1);
 
 	DropKind(IK3_SWD, 19, 26);
@@ -9802,7 +9801,7 @@ MI_FLYBAT4
 MI_BUCROW1
 {
 	Maxitem = 4;
-	DropGold(54, 78);
+	DropGold(210, 250);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -9849,7 +9848,7 @@ MI_BUCROW1
 MI_BUCROW2
 {
 	Maxitem = 4;
-	DropGold(54, 78);
+	DropGold(210, 250);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -9895,7 +9894,7 @@ MI_BUCROW2
 MI_BUCROW3
 {
 	Maxitem = 4;
-	DropGold(54, 78);
+	DropGold(210, 250);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -9941,7 +9940,7 @@ MI_BUCROW3
 MI_BUCROW4
 {
 	Maxitem = 8;
-	DropGold(268, 389);
+	DropGold(420, 530);
 
 	DropItem(II_GEN_JEW_NEC_FPNECKLACE, 4166000, 11, 1);
 
@@ -10008,7 +10007,7 @@ MI_BUCROW4
 MI_SCOPICON1
 {
 	Maxitem = 4;
-	DropGold(63, 91);
+	DropGold(220, 260);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -10056,7 +10055,7 @@ MI_SCOPICON1
 MI_SCOPICON2
 {
 	Maxitem = 4;
-	DropGold(63, 91);
+	DropGold(220, 260);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -10104,7 +10103,7 @@ MI_SCOPICON2
 MI_SCOPICON3
 {
 	Maxitem = 4;
-	DropGold(63, 91);
+	DropGold(220, 260);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -10153,7 +10152,7 @@ MI_SCOPICON3
 MI_SCOPICON4
 {
 	Maxitem = 8;
-	DropGold(313, 454);
+	DropGold(400, 500);
 
 	DropItem(II_GEN_JEW_NEC_FPNECKLACE, 4166000, 14, 1);
 
@@ -10222,7 +10221,7 @@ MI_SCOPICON4
 MI_TRANGFOMA1
 {
 	Maxitem = 4;
-	DropGold(70, 102);
+	DropGold(250, 300);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -10271,7 +10270,7 @@ MI_TRANGFOMA1
 MI_TRANGFOMA2
 {
 	Maxitem = 4;
-	DropGold(70, 102);
+	DropGold(250, 300);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -10319,7 +10318,7 @@ MI_TRANGFOMA2
 MI_TRANGFOMA3
 {
 	Maxitem = 4;
-	DropGold(70, 102);
+	DropGold(250, 300);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -10368,7 +10367,7 @@ MI_TRANGFOMA3
 MI_TRANGFOMA4
 {
 	Maxitem = 8;
-	DropGold(352, 511);
+	DropGold(500, 550);
 
 	DropItem(II_GEN_JEW_NEC_HPNECKLACE, 4166000, 6, 1);
 
@@ -10433,6 +10432,7 @@ MI_TRANGFOMA4
 MI_CLOCKWORK1
 {
 	Maxitem = 8;
+	DropGold(1200, 2000);
 
 	DropItem(II_GEN_JEW_EAR_ATTEARRING, 5000000, 14, 1);
 	DropItem(II_GEN_JEW_EAR_DEFEARRING, 10000000, 10, 1);
@@ -10531,7 +10531,7 @@ MI_CLOCKWORK1
 MI_GRRR1	// 그르릉
 {
 	Maxitem = 2;
-	DropGold(81, 118);
+	DropGold(560, 810);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -10575,7 +10575,7 @@ MI_GRRR1	// 그르릉
 MI_GRRR2
 {
 	Maxitem = 2;
-	DropGold(82, 119);
+	DropGold(560, 810);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -10619,7 +10619,7 @@ MI_GRRR2
 MI_GRRR3
 {
 	Maxitem = 2;
-	DropGold(84, 121);
+	DropGold(560, 810);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -10665,7 +10665,7 @@ MI_GRRR3
 MI_GRRR4
 {
 	Maxitem = 2;
-	DropGold(616, 893);
+	DropGold(950, 1000);
 
 	DropItem(II_WEA_SWO_ANGEL, 2700000, 0, 1);
 	DropItem(II_WEA_SWT_ANGEL, 2700000, 0, 1);
@@ -11048,6 +11048,7 @@ MI_MUSHMOOT
 MI_SMALL_MUSHPOIE
 {
 	Maxitem = 0;
+	DropGold(580, 820);
 
 	m_nAttackFirstRange = 8;
 	
@@ -11094,7 +11095,7 @@ MI_ZOMBIGER5
 MI_DUMP1	//덤프
 {
 	Maxitem = 2;
-	DropGold(84, 122);
+	DropGold(580, 820);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -11137,7 +11138,7 @@ MI_DUMP1	//덤프
 MI_DUMP2
 {
 	Maxitem = 2;
-	DropGold(86, 125);
+	DropGold(580, 820);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -11182,7 +11183,7 @@ MI_DUMP2
 MI_DUMP3
 {
 	Maxitem = 2;
-	DropGold(88, 127);
+	DropGold(580, 820);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -11226,7 +11227,7 @@ MI_DUMP3
 MI_DUMP4
 {
 	Maxitem = 2;
-	DropGold(644, 933);
+	DropGold(1000, 1100);
 
 	DropItem(II_WEA_SWO_ANGEL, 3150000, 0, 1);
 	DropItem(II_WEA_SWT_ANGEL, 3150000, 0, 1);
@@ -11268,7 +11269,7 @@ MI_DUMP4
 MI_NAUTREPY1
 {
 	Maxitem = 2;
-	DropGold(61, 89);
+	DropGold(420, 500);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -11313,7 +11314,7 @@ MI_NAUTREPY1
 MI_NAUTREPY2
 {
 	Maxitem = 2;
-	DropGold(62, 90);
+	DropGold(420, 500);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -11358,7 +11359,7 @@ MI_NAUTREPY2
 MI_NAUTREPY3
 {
 	Maxitem = 2;
-	DropGold(63, 91);
+	DropGold(420, 500);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -11445,7 +11446,7 @@ MI_NAUTREPY4
 MI_BOO1
 {
 	Maxitem = 2;
-	DropGold(64, 93);
+	DropGold(520, 650);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -11489,7 +11490,7 @@ MI_BOO1
 MI_BOO2
 {
 	Maxitem = 2;
-	DropGold(66, 96);
+	DropGold(520, 650);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -11534,7 +11535,7 @@ MI_BOO2
 MI_BOO3
 {
 	Maxitem = 2;
-	DropGold(67, 97);
+	DropGold(520, 650);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -11622,7 +11623,7 @@ MI_BOO4
 MI_HOPPRE1
 {
 	Maxitem = 2;
-	DropGold(68, 98);
+	DropGold(550, 700);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -11667,7 +11668,7 @@ MI_HOPPRE1
 MI_HOPPRE2
 {
 	Maxitem = 2;
-	DropGold(68, 99);
+	DropGold(550, 700);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -11711,7 +11712,7 @@ MI_HOPPRE2
 MI_HOPPRE3
 {
 	Maxitem = 2;
-	DropGold(70, 102);
+	DropGold(550, 700);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -11798,7 +11799,7 @@ MI_HOPPRE4
 MI_MUSHPOIE1
 {
 	Maxitem = 2;
-	DropGold(71, 103);
+	DropGold(580, 820);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -11842,7 +11843,7 @@ MI_MUSHPOIE1
 MI_MUSHPOIE2
 {
 	Maxitem = 2;
-	DropGold(72, 104);
+	DropGold(580, 820);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -11886,7 +11887,7 @@ MI_MUSHPOIE2
 MI_MUSHPOIE3
 {
 	Maxitem = 2;
-	DropGold(73, 106);
+	DropGold(580, 820);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -11931,7 +11932,7 @@ MI_MUSHPOIE3
 MI_MUSHPOIE4
 {
 	Maxitem = 2;
-	DropGold(537, 779);
+	DropGold(1050, 1150);
 
 	DropItem(II_WEA_SWO_USU, 3600000, 0, 1);
 	DropItem(II_WEA_SWT_USU, 3600000, 0, 1);
@@ -11971,7 +11972,7 @@ MI_MUSHPOIE4
 MI_IREN1
 {
 	Maxitem = 2;
-	DropGold(74, 107);
+	DropGold(600, 840);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -12015,7 +12016,7 @@ MI_IREN1
 MI_IREN2
 {
 	Maxitem = 2;
-	DropGold(75, 109);
+	DropGold(600, 840);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -12059,7 +12060,7 @@ MI_IREN2
 MI_IREN3
 {
 	Maxitem = 2;
-	DropGold(76, 111);
+	DropGold(600, 840);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -12103,7 +12104,7 @@ MI_IREN3
 MI_IREN4
 {
 	Maxitem = 2;
-	DropGold(560, 812);
+	DropGold(1100, 1200);
 
 	DropItem(II_WEA_SWO_ANGEL, 3150000, 0, 1);
 	DropItem(II_WEA_SWT_ANGEL, 3150000, 0, 1);
@@ -12144,7 +12145,7 @@ MI_IREN4
 MI_WATANGKA1
 {
 	Maxitem = 2;
-	DropGold(77, 112);
+	DropGold(620, 860);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -12187,7 +12188,7 @@ MI_WATANGKA1
 MI_WATANGKA2
 {
 	Maxitem = 2;
-	DropGold(79, 114);
+	DropGold(620, 860);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -12232,7 +12233,7 @@ MI_WATANGKA2
 MI_WATANGKA3
 {
 	Maxitem = 2;
-	DropGold(80, 116);
+	DropGold(620, 860);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -12277,7 +12278,7 @@ MI_WATANGKA3
 MI_WATANGKA4
 {
 	Maxitem = 2;
-	DropGold(588, 852);
+	DropGold(1200, 1300);
 
 	DropItem(II_WEA_SWO_ANGEL, 3150000, 0, 1);
 	DropItem(II_WEA_SWT_ANGEL, 3150000, 0, 1);
@@ -12318,7 +12319,7 @@ MI_WATANGKA4
 MI_ANTIQUERY1
 {
 	Maxitem = 2;
-	DropGold(81, 118);
+	DropGold(640, 880);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -12361,7 +12362,7 @@ MI_ANTIQUERY1
 MI_ANTIQUERY2
 {
 	Maxitem = 2;
-	DropGold(82, 119);
+	DropGold(640, 880);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -12406,7 +12407,7 @@ MI_ANTIQUERY2
 MI_ANTIQUERY3
 {
 	Maxitem = 2;
-	DropGold(84, 121);
+	DropGold(640, 880);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -12452,7 +12453,7 @@ MI_ANTIQUERY3
 MI_ANTIQUERY4
 {
 	Maxitem = 2;
-	DropGold(616, 893);
+	DropGold(1300, 1400);
 
 	DropItem(II_WEA_SWO_ANGEL, 2700000, 0, 1);
 	DropItem(II_WEA_SWT_ANGEL, 2700000, 0, 1);
@@ -12493,7 +12494,7 @@ MI_ANTIQUERY4
 MI_LUIA1
 {
 	Maxitem = 2;
-	DropGold(84, 122);
+	DropGold(660, 900);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -12536,7 +12537,7 @@ MI_LUIA1
 MI_LUIA2
 {
 	Maxitem = 2;
-	DropGold(86, 125);
+	DropGold(660, 900);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -12578,7 +12579,7 @@ MI_LUIA2
 MI_LUIA3
 {
 	Maxitem = 2;
-	DropGold(88, 127);
+	DropGold(660, 900);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -12622,7 +12623,7 @@ MI_LUIA3
 MI_LUIA4
 {
 	Maxitem = 2;
-	DropGold(644, 933);
+	DropGold(1400, 1500);
 
 	DropItem(II_WEA_SWO_ANGEL, 3150000, 0, 1);
 	DropItem(II_WEA_SWT_ANGEL, 3150000, 0, 1);
@@ -12663,7 +12664,7 @@ MI_LUIA4
 MI_GONGURY1
 {
 	Maxitem = 2;
-	DropGold(88, 128);
+	DropGold(680, 910);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -12706,7 +12707,7 @@ MI_GONGURY1
 MI_GONGURY2
 {
 	Maxitem = 2;
-	DropGold(90, 131);
+	DropGold(680, 910);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -12751,7 +12752,7 @@ MI_GONGURY2
 MI_GONGURY3
 {
 	Maxitem = 2;
-	DropGold(92, 133);
+	DropGold(680, 910);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -12796,7 +12797,7 @@ MI_GONGURY3
 MI_GONGURY4
 {
 	Maxitem = 2;
-	DropGold(672, 974);
+	DropGold(1500, 1600);
 
 	DropItem(II_WEA_SWO_ANGEL, 3600000, 0, 1);
 	DropItem(II_WEA_SWT_ANGEL, 3600000, 0, 1);
@@ -12837,7 +12838,7 @@ MI_GONGURY4
 MI_SHUHAMMA1
 {
 	Maxitem = 2;
-	DropGold(92, 134);
+	DropGold(700, 930);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -12881,7 +12882,7 @@ MI_SHUHAMMA1
 MI_SHUHAMMA2
 {
 	Maxitem = 2;
-	DropGold(94, 136);
+	DropGold(700, 930);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -12925,7 +12926,7 @@ MI_SHUHAMMA2
 MI_SHUHAMMA3
 {
 	Maxitem = 2;
-	DropGold(96, 139);
+	DropGold(700, 930);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -12969,7 +12970,7 @@ MI_SHUHAMMA3
 MI_SHUHAMMA4
 {
 	Maxitem = 2;
-	DropGold(694, 1006);
+	DropGold(1600, 1700);
 
 	DropItem(II_WEA_SWO_ANGEL, 4050000, 0, 1);
 	DropItem(II_WEA_SWT_ANGEL, 4050000, 0, 1);
@@ -13010,7 +13011,7 @@ MI_SHUHAMMA4
 MI_KERN1
 {
 	Maxitem = 2;
-	DropGold(97, 141);
+	DropGold(720, 950);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -13053,7 +13054,7 @@ MI_KERN1
 MI_KERN2
 {
 	Maxitem = 2;
-	DropGold(99, 143);
+	DropGold(720, 950);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -13096,7 +13097,7 @@ MI_KERN2
 MI_KERN3
 {
 	Maxitem = 2;
-	DropGold(99, 143);
+	DropGold(720, 950);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -13140,7 +13141,7 @@ MI_KERN3
 MI_KERN4
 {
 	Maxitem = 2;
-	DropGold(694, 1006);
+	DropGold(1700, 1800);
 	
 	DropItem(II_WEA_SWO_LEAGENDG, 2700000, 0, 1);
 	DropItem(II_WEA_SWT_LEAGENDG, 2700000, 0, 1);
@@ -13181,7 +13182,7 @@ MI_KERN4
 MI_GLAPHAN1
 {
 	Maxitem = 2;
-	DropGold(99, 142);
+	DropGold(740, 960);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -13225,7 +13226,7 @@ MI_GLAPHAN1
 MI_GLAPHAN2
 {
 	Maxitem = 2;
-	DropGold(99, 143);
+	DropGold(740, 960);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -13269,7 +13270,7 @@ MI_GLAPHAN2
 MI_GLAPHAN3
 {
 	Maxitem = 2;
-	DropGold(99, 143);
+	DropGold(740, 960);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -13314,7 +13315,7 @@ MI_GLAPHAN3
 MI_GLAPHAN4
 {
 	Maxitem = 2;
-	DropGold(694, 1006);
+	DropGold(1800, 1900);
 
 	DropItem(II_WEA_SWO_LEAGENDG, 2700000, 0, 1);
 	DropItem(II_WEA_SWT_LEAGENDG, 2700000, 0, 1);
@@ -13356,7 +13357,7 @@ MI_GLAPHAN4
 MI_KIMERADON1	//키메라돈
 {
 	Maxitem = 2;
-	DropGold(88, 128);
+	DropGold(740, 960);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -13396,7 +13397,7 @@ MI_KIMERADON1	//키메라돈
 MI_KIMERADON2
 {
 	Maxitem = 2;
-	DropGold(88, 128);
+	DropGold(740, 960);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -13436,7 +13437,7 @@ MI_KIMERADON2
 MI_KIMERADON3
 {
 	Maxitem = 2;
-	DropGold(90, 131);
+	DropGold(740, 960);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -13476,7 +13477,7 @@ MI_KIMERADON3
 MI_KIMERADON4
 {
 	Maxitem = 2;
-	DropGold(92, 133);
+	DropGold(740, 960);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -13516,7 +13517,7 @@ MI_KIMERADON4
 MI_KIMERADON5
 {
 	Maxitem = 2;
-	DropGold(672, 974);
+	DropGold(1800, 1900);
 
 	DropItem(II_WEA_SWO_ANGEL, 3600000, 0, 1);
 	DropItem(II_WEA_SWT_ANGEL, 3600000, 0, 1);
@@ -13553,7 +13554,7 @@ MI_KIMERADON5
 MI_BEARNUCKY1	// 베어너키
 {
 	Maxitem = 2;
-	DropGold(92, 134);
+	DropGold(750, 970);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -13593,7 +13594,7 @@ MI_BEARNUCKY1	// 베어너키
 MI_BEARNUCKY2
 {
 	Maxitem = 2;
-	DropGold(92, 134);
+	DropGold(750, 970);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -13633,7 +13634,7 @@ MI_BEARNUCKY2
 MI_BEARNUCKY3
 {
 	Maxitem = 2;
-	DropGold(94, 136);
+	DropGold(750, 970);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -13673,7 +13674,7 @@ MI_BEARNUCKY3
 MI_BEARNUCKY4
 {
 	Maxitem = 2;
-	DropGold(96, 139);
+	DropGold(750, 970);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -13713,7 +13714,7 @@ MI_BEARNUCKY4
 MI_BEARNUCKY5
 {
 	Maxitem = 2;
-	DropGold(694, 1006);
+	DropGold(1900, 2000);
 
 	DropItem(II_WEA_SWO_LEAGENDG, 2700000, 0, 1);
 	DropItem(II_WEA_SWT_LEAGENDG, 2700000, 0, 1);
@@ -13751,7 +13752,7 @@ MI_BEARNUCKY5
 MI_MUFFRIN1	//머푸린
 {
 	Maxitem = 2;
-	DropGold(97, 141);
+	DropGold(760, 980);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -13791,7 +13792,7 @@ MI_MUFFRIN1	//머푸린
 MI_MUFFRIN2
 {
 	Maxitem = 2;
-	DropGold(97, 141);
+	DropGold(760, 980);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -13831,7 +13832,7 @@ MI_MUFFRIN2
 MI_MUFFRIN3
 {
 	Maxitem = 2;
-	DropGold(99, 143);
+	DropGold(760, 980);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -13871,7 +13872,7 @@ MI_MUFFRIN3
 MI_MUFFRIN4
 {
 	Maxitem = 2;
-	DropGold(99, 143);
+	DropGold(760, 980);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -13911,7 +13912,7 @@ MI_MUFFRIN4
 MI_MUFFRIN6
 {
 	Maxitem = 2;
-	DropGold(694, 1006);
+	DropGold(1900, 2000);
 
 	DropItem(II_WEA_SWO_LEAGENDG, 2700000, 0, 1);
 	DropItem(II_WEA_SWT_LEAGENDG, 2700000, 0, 1);
@@ -13949,7 +13950,7 @@ MI_MUFFRIN6
 MI_POPCRANK1
 {
 	Maxitem = 2;
-	DropGold(99, 142);
+	DropGold(770, 990);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -13989,7 +13990,7 @@ MI_POPCRANK1
 MI_POPCRANK2
 {
 	Maxitem = 2;
-	DropGold(99, 142);
+	DropGold(770, 990);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -14029,7 +14030,7 @@ MI_POPCRANK2
 MI_POPCRANK3
 {
 	Maxitem = 2;
-	DropGold(99, 143);
+	DropGold(770, 990);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -14069,7 +14070,7 @@ MI_POPCRANK3
 MI_POPCRANK4
 {
 	Maxitem = 2;
-	DropGold(99, 143);
+	DropGold(770, 990);
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
 	DropKind(IK3_CHEERSTICK, 6, 6);
@@ -14109,7 +14110,7 @@ MI_POPCRANK4
 MI_POPCRANK5
 {
 	Maxitem = 2;
-	DropGold(694, 1006);
+	DropGold(2000, 2200);
 
 	DropItem(II_WEA_SWO_LEAGENDG, 2700000, 0, 1);
 	DropItem(II_WEA_SWT_LEAGENDG, 2700000, 0, 1);
@@ -19397,7 +19398,7 @@ MI_HARPY03
 
 MI_HARPY04
 {
-	Maxitem = 5;
+	Maxitem = 2;
 	DropGold(464, 673);
 
 	DropItem(II_WEA_SWO_SUHO, 3150000, 0, 1);
@@ -19588,7 +19589,7 @@ MI_POLEVIK03
 
 MI_POLEVIK04
 {
-	Maxitem = 5;
+	Maxitem = 2;
 	DropGold(515, 747);
 
 	DropItem(II_WEA_SWO_USU, 3150000, 0, 1);
@@ -19778,7 +19779,7 @@ MI_ABRAXAS03
 
 MI_ABRAXAS04
 {
-	Maxitem = 5;
+	Maxitem = 2;
 	DropGold(560, 812);
 
 	DropItem(II_WEA_SWO_USU, 4050000, 0, 1);
@@ -19968,7 +19969,7 @@ MI_HAG03
 
 MI_HAG04
 {
-	Maxitem = 5;
+	Maxitem = 2;
 	DropGold(616, 893);
 
 	DropItem(II_WEA_SWO_ANGEL, 2700000, 0, 1);
@@ -20158,7 +20159,7 @@ MI_THOTH03
 
 MI_THOTH04
 {
-	Maxitem = 5;
+	Maxitem = 2;
 	DropGold(672, 974);
 
 	DropItem(II_WEA_SWO_ANGEL, 3600000, 0, 1);
@@ -20350,7 +20351,7 @@ MI_KHNEMU03
 
 MI_KHNEMU04
 {
-	Maxitem = 5;
+	Maxitem = 2;
 	DropGold(694, 1006);
 
 	DropItem(II_WEA_SWO_ANGEL, 4500000, 0, 1);
@@ -20540,7 +20541,7 @@ MI_DANTALIAN03
 
 MI_DANTALIAN04
 {
-	Maxitem = 5;
+	Maxitem = 2;
 	DropGold(700, 1100);
 
 	DropItem(II_WEA_SWO_LEAGENDG, 3150000, 0, 1);
@@ -20748,7 +20749,7 @@ MI_GANESA03
 
 MI_GANESA04
 {
-	Maxitem = 5;
+	Maxitem = 2;
 	DropGold(700, 1100);
 
 	DropItem(II_WEA_SWO_LEAGENDG, 4050000, 0, 1);
@@ -20948,7 +20949,7 @@ MI_ASURA03
 
 MI_ASURA04
 {
-	Maxitem = 5;
+	Maxitem = 2;
 	DropGold(700, 1100);
 
 	DropItem(II_WEA_SWO_LEAGENDG, 4500000, 0, 1);
@@ -21248,7 +21249,7 @@ MI_LUCIFER01
 
 MI_RANGDA01
 {
-	Maxitem = 3;
+	Maxitem = 1;
 	DropGold(50, 100);
 	
 	DropItem(II_WEA_SWO_SUHO, 3000000, 0, 1);
@@ -22674,7 +22675,7 @@ MI_MEREL03
 MI_Crohell01
 {
 	Maxitem = 2;
-        DropGold(500, 2000);
+    DropGold(500, 2000);
 
 	DropKind(IK3_SWD, 6, 6);
 	DropKind(IK3_AXE, 6, 6);
